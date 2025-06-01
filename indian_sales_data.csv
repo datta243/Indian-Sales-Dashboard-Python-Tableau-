@@ -1,0 +1,1001 @@
+Order ID,Order Date,Region,City,Category,Subcategory,Sales,Quantity,Profit
+71dbd52c-6c12-46f4-a76c-0e134e8d0e28,2025-02-20,South,Bangalore,Furniture,Tables,8466.01,2,980.79
+f37557f0-3ec9-4af4-81dc-595d535dd15d,2024-03-23,North,Jaipur,Office Supplies,Paper,9037.1,3,1741.9
+e8b29130-0e5e-4139-9d01-a6cb0ea4bd34,2023-09-27,South,Hyderabad,Office Supplies,Staplers,1107.48,13,176.92
+75071359-84b9-4872-810c-b4fc920d03f4,2023-07-27,East,Patna,Furniture,Tables,2878.72,12,389.54
+7fb1430c-8842-4b78-9a85-10682892fc63,2024-12-31,South,Bangalore,Technology,Laptops,2910.22,10,304.74
+5b2e6d0c-bf73-439e-a116-4563a91bba27,2023-10-02,North,Delhi,Office Supplies,Staplers,6355.18,1,550.32
+a844a557-687c-4f9a-b1e4-f33644af7a8d,2023-11-25,East,Patna,Technology,Laptops,2619.46,6,434.04
+a473fb3e-9610-4a92-b00c-ad669aeb2bf7,2025-04-07,South,Kochi,Furniture,Sofas,2285.34,2,409.69
+5e2ec12a-5ef4-40ac-8bf9-42a0d8ac46ac,2023-11-01,South,Hyderabad,Office Supplies,Staplers,3675.59,9,184.08
+9c3d3ba2-cf5c-4453-81f4-dab93eaae1ba,2023-07-30,East,Guwahati,Office Supplies,Binders,4265.48,3,946.31
+dac5aba1-b59b-478c-ae9e-4c81662d5485,2025-01-02,West,Ahmedabad,Office Supplies,Binders,6055.62,10,772.45
+1edc2c7d-1dd4-497d-8cac-2d3eab006da5,2025-05-26,South,Hyderabad,Technology,Phones,925.39,12,164.88
+8e79dc28-ca00-47f1-8f8e-be42261c3c22,2025-01-06,North,Chandigarh,Technology,Printers,2621.7,2,620.19
+b40d4aa0-e1d5-45bd-8a99-8f2009cb70cd,2024-05-12,South,Chennai,Office Supplies,Binders,4099.09,6,726.07
+1d76d836-d0cb-4a2f-8434-a6437a9d65df,2024-03-09,East,Guwahati,Furniture,Sofas,7983.61,5,1681.36
+6c4e327a-b0aa-40ab-bff3-5351a7c0a48e,2024-01-01,East,Patna,Furniture,Chairs,6468.93,2,1018.88
+6839da68-80d3-4254-8e7d-b41afcf5a5ac,2025-01-20,South,Bangalore,Furniture,Tables,8340.39,14,1347.2
+cbbc7f81-4327-4ded-9d94-deeb40b70bca,2023-11-22,East,Kolkata,Technology,Printers,6759.83,12,606.76
+039e7e2f-9213-451b-b4a1-15261f67a406,2023-12-08,East,Bhubaneswar,Furniture,Chairs,358.03,4,71.35
+c155a75d-fbc5-48f4-b3e6-bb03b905f2ca,2025-02-15,North,Delhi,Furniture,Tables,1661.51,13,136.84
+14e2a2be-7305-469c-a5c7-887e71f8ea78,2024-12-19,West,Surat,Office Supplies,Paper,667.44,8,73.04
+8dfb8f68-992a-4028-885a-7e9ef62bd1a3,2024-03-27,South,Chennai,Furniture,Chairs,4254.2,9,624.12
+88cdba0d-083b-42ef-8e6b-455c1b256a1f,2024-05-14,East,Guwahati,Furniture,Tables,4553.26,3,762.23
+f7bf6c91-3868-477a-bdcc-178445a0736b,2024-10-07,South,Chennai,Technology,Laptops,2074.41,7,290.86
+c0489965-7551-45fa-b2bc-4cfa96f02e47,2024-05-04,East,Patna,Office Supplies,Staplers,6795.27,9,798.76
+c67cff29-54f9-4595-8263-649ef625bf2e,2023-09-21,South,Hyderabad,Furniture,Sofas,1669.3,6,285.72
+4c99f01a-d8b7-4e81-a36c-126264d343fb,2025-01-13,South,Hyderabad,Furniture,Sofas,9564.07,4,1673.62
+88914b4f-36db-4771-8802-169305a95853,2023-11-23,West,Pune,Technology,Laptops,3217.64,9,202.81
+cdda4393-49d5-4fff-ba72-1f5a1262117f,2025-01-26,South,Kochi,Furniture,Tables,8913.02,6,1870.49
+a6d3ddcc-330b-41df-8c50-95337009721b,2024-05-12,North,Chandigarh,Office Supplies,Staplers,4790.43,7,304.44
+b41b15e1-9105-4838-a6ce-1b0e54e1e5e9,2024-11-17,East,Patna,Office Supplies,Paper,9686.91,9,1524.23
+d1bb2eaf-23a7-4088-a9c1-0ba2e9ad4fbc,2024-08-24,North,Jaipur,Furniture,Tables,9124.91,4,2270.18
+7b86264b-497b-4573-b379-71a584484bdf,2025-05-07,North,Chandigarh,Office Supplies,Binders,7093.98,15,702.83
+9c1e8585-de4f-427a-b79c-a4d030b5a088,2024-07-28,West,Pune,Technology,Laptops,3548.43,7,511.08
+6b745f67-b219-4602-aff0-3161376a24f7,2023-06-14,South,Hyderabad,Technology,Laptops,4352.94,2,301.49
+b8e312e6-6f25-48c9-bdc0-6e6db90a1c94,2025-04-03,East,Guwahati,Furniture,Sofas,8031.51,9,414.36
+55c6460b-15cb-4353-8434-41f127fe6ee9,2023-11-15,West,Mumbai,Furniture,Tables,8556.21,11,1345.64
+7a624cf6-00c8-44b9-bcf2-69c1df26c35a,2025-01-20,South,Chennai,Technology,Laptops,8160.37,12,1845.9
+98f0c436-55ec-4af0-a09a-4db7f07a0516,2024-03-17,East,Patna,Technology,Printers,2923.87,12,202.62
+3c41b50d-2b53-404c-b282-52c5b5fa0f00,2024-05-16,East,Kolkata,Technology,Laptops,7410.1,11,1262.03
+a2e08fe3-f277-447f-8a1d-59143164a70e,2024-10-27,South,Bangalore,Technology,Phones,2901.37,12,457.75
+5b4487d4-d37d-47d0-84e6-465e3135b4ba,2024-07-29,South,Kochi,Office Supplies,Paper,270.1,8,17.57
+39053a15-4b20-4415-9a90-fda16084d0e8,2024-02-23,West,Pune,Furniture,Sofas,9254.42,2,1737.36
+226f1992-a8e2-4218-857e-04e206fec77f,2023-06-30,South,Kochi,Technology,Printers,6770.45,14,1215.61
+4726aeae-97a8-491b-8095-d5551913f95a,2023-06-25,North,Chandigarh,Office Supplies,Staplers,6092.61,1,411.09
+a97440b1-50b5-47bd-9aaf-f548a74d5ad6,2024-11-18,North,Delhi,Furniture,Sofas,7756.35,10,1105.67
+203010f1-de97-400c-bc33-2e66ae980305,2024-06-26,South,Hyderabad,Furniture,Tables,3131.15,3,346.41
+caf16bac-0a2d-46dd-9d5b-09878cf5fde3,2024-11-18,North,Delhi,Technology,Phones,6899.64,14,516.57
+5d04794e-de60-4b74-9585-ad02a04b8572,2025-01-31,South,Chennai,Furniture,Chairs,1193.97,1,254.83
+4216a398-c148-42a1-a621-f71c31489876,2025-01-14,North,Jaipur,Technology,Phones,5887.62,4,732.15
+b665883c-100a-4a47-ba35-2bf789466c4b,2024-02-02,East,Patna,Furniture,Sofas,2134.88,10,472.51
+4a34fa52-230a-4e4f-b72f-01a0e13d335e,2024-10-15,South,Bangalore,Office Supplies,Paper,5645.67,6,399.8
+438eab71-44e1-4996-be1b-ff67ab17f5ea,2023-12-14,North,Lucknow,Office Supplies,Binders,6318.47,1,328.0
+7e2c3ccc-92f8-4712-8d24-b6e0ad2079ea,2025-03-20,East,Patna,Office Supplies,Binders,4349.93,6,775.12
+08af6d7f-3028-44cd-ac2d-2d5988615132,2023-10-22,South,Hyderabad,Technology,Printers,360.86,3,75.32
+5d07710a-2395-4e80-a716-cf25cfe60562,2023-07-19,West,Ahmedabad,Technology,Laptops,5199.42,4,878.93
+ca88a05f-4d3f-4fe2-8236-ab420d6a0ac5,2025-03-28,West,Pune,Furniture,Chairs,9626.11,5,2240.11
+ed851c9c-2a37-436f-b474-2ebafbdf447a,2024-06-16,East,Patna,Technology,Printers,9654.23,2,838.15
+988400e0-8d5e-4f9d-a8ea-5fbfb513609a,2024-11-28,South,Hyderabad,Furniture,Chairs,4433.97,12,519.24
+5ddc3a91-f5bc-462f-b3bc-617c6ea7fe68,2024-12-30,East,Bhubaneswar,Technology,Printers,2572.44,1,400.77
+91a81a39-ffd8-4344-9e07-6a1d58f41429,2023-09-09,South,Kochi,Furniture,Sofas,5805.54,10,537.62
+8521a1f2-d326-4a0b-a2ba-7a6e684ce324,2024-01-15,South,Bangalore,Furniture,Sofas,1285.37,12,64.9
+d014a074-c18b-4a14-81d3-e9f5cd4e840e,2024-09-05,North,Lucknow,Furniture,Tables,9533.44,10,2251.58
+28d8e48c-13c7-49ac-a414-ed70fdb0a4a1,2023-09-10,West,Surat,Office Supplies,Paper,197.88,9,45.82
+760f4f51-a263-4210-a136-988cef24a365,2024-01-18,West,Ahmedabad,Office Supplies,Paper,1345.32,1,193.12
+845e133b-c903-4c87-916b-14e9c1c3af97,2024-08-20,East,Guwahati,Office Supplies,Binders,1026.44,8,190.57
+72d8494d-bce1-4e4c-be11-9b9e70adbd3f,2023-11-15,South,Chennai,Technology,Printers,4263.32,15,818.53
+6e8a97d0-345f-48e1-a573-cd84763e7bf9,2023-11-03,West,Pune,Office Supplies,Staplers,744.49,1,86.45
+78d42bb3-a723-41e0-bde0-a52ebed62d4f,2023-07-29,East,Kolkata,Technology,Phones,7119.38,1,515.09
+0501751b-fd4c-4fc4-8a56-7192b6c5892d,2025-03-01,South,Kochi,Technology,Laptops,4697.39,9,901.01
+3f53f6e3-bd4e-4cc0-abc3-4f4edcda415d,2025-03-23,West,Surat,Technology,Phones,7713.11,2,775.22
+c643abf2-4280-41c8-81b8-a0be03d0aa69,2023-12-18,North,Delhi,Furniture,Tables,2965.62,12,651.7
+fa85919b-f254-441a-b110-fff1ce4ee732,2024-08-01,West,Mumbai,Technology,Laptops,9522.82,1,1101.42
+402f6163-3c72-4463-9e07-aa70d71c6c59,2024-07-07,East,Patna,Technology,Laptops,1052.49,4,109.62
+6610760d-30bc-4806-94a2-a0d6ecb2cf2a,2023-09-26,West,Pune,Technology,Printers,7744.02,5,1487.75
+84261e27-237d-4a47-b767-79419f528de4,2023-09-20,South,Hyderabad,Furniture,Chairs,1988.37,10,391.59
+acd7c7b6-e177-4b4a-959a-60cc018bc594,2024-02-28,West,Ahmedabad,Technology,Phones,2800.3,9,684.75
+fb121ff5-8902-4c4e-a293-b4146781334d,2023-11-03,East,Guwahati,Furniture,Chairs,7891.63,7,1448.33
+7769b10e-881d-4523-b145-a778191334ce,2023-07-02,West,Pune,Technology,Laptops,8774.6,14,1050.75
+3519f3a4-4ff6-4ed4-8b03-acddfed604aa,2025-01-31,South,Chennai,Office Supplies,Binders,3778.63,6,234.83
+0e19f66b-1a72-45bf-92d6-6fbc47ef17f5,2024-11-08,North,Delhi,Furniture,Chairs,8195.82,8,1488.82
+3b416804-707b-4bbe-bbbc-df2699bd838b,2024-07-15,North,Delhi,Technology,Printers,2461.88,3,388.89
+0bb07d4f-e8b8-4aa8-a63e-9f33ca0155d6,2024-01-19,West,Surat,Technology,Phones,5787.44,13,745.28
+612630ce-cf14-4a9e-b02e-2ace3925fd53,2023-12-05,South,Kochi,Technology,Laptops,4126.96,7,816.04
+33adbefc-4228-47da-85a8-bdb113cf66e2,2025-02-16,North,Jaipur,Office Supplies,Staplers,4228.71,1,1034.15
+5087156c-e494-4efe-a60a-c39106ddc4f9,2025-02-09,East,Kolkata,Furniture,Tables,6693.13,6,1360.21
+924b0687-9e22-47ba-8573-c33515d6674c,2024-01-07,West,Surat,Furniture,Chairs,7510.57,8,883.23
+3c408bbf-6ee9-4075-874e-6d86e91e825b,2024-06-29,South,Bangalore,Furniture,Sofas,1257.77,14,97.31
+23a301d6-d5c9-4e05-89f3-f9c00936a189,2023-09-01,East,Kolkata,Furniture,Tables,6332.3,11,1575.7
+cfa6fa56-3bcb-427b-83c5-7d3704259ca3,2025-03-26,South,Bangalore,Furniture,Chairs,1086.04,14,55.3
+c3425471-e131-4887-84f4-d35f918406a4,2025-03-21,North,Lucknow,Furniture,Tables,247.25,6,59.05
+50027ee6-7798-4461-8874-cdba068ff78b,2024-05-04,North,Jaipur,Technology,Laptops,5469.13,7,445.65
+1740c3c3-6b65-4f2c-a6f3-5e5609689d74,2023-06-13,West,Ahmedabad,Office Supplies,Binders,8388.29,14,960.08
+c407af11-ea88-489f-bf60-87ea7110d934,2023-10-31,West,Surat,Office Supplies,Binders,2591.37,11,348.99
+0097118c-4171-4733-a282-250a99292e85,2024-11-20,South,Kochi,Furniture,Tables,144.49,10,9.61
+7cc9dc46-a847-498b-a83a-3eb1b1e3cfff,2023-06-26,North,Delhi,Technology,Phones,5795.62,9,629.99
+dc9099ca-551a-4091-afc7-a44c7623ac68,2023-09-28,East,Bhubaneswar,Technology,Laptops,699.28,12,72.34
+3672185a-03a2-4204-ab8c-c2f43c42f41c,2025-02-17,South,Kochi,Furniture,Tables,3256.24,8,293.57
+b01b3a9c-ae78-4cf0-802e-f130b1fc2ef5,2025-02-21,North,Jaipur,Furniture,Tables,3159.9,8,450.02
+cf8e5972-9115-4daa-93e3-d8c2a3420798,2024-10-03,East,Kolkata,Furniture,Chairs,8165.74,15,627.62
+b39ccb50-2359-477d-bb28-2c2584740432,2024-08-15,West,Pune,Furniture,Chairs,3134.08,14,657.8
+b2a50f34-1749-4569-b3a4-3033d5ee9daf,2023-11-08,West,Pune,Technology,Phones,833.76,8,125.49
+765f59a4-4e6e-4d9a-990e-4e3f5e8588ef,2025-03-21,West,Pune,Furniture,Tables,5366.31,7,1309.38
+3d764818-3dd0-4296-800b-fcf4d6a8882b,2025-02-21,West,Pune,Furniture,Sofas,2780.0,5,597.95
+38b14cb5-e2c3-4d66-b97e-cdd3a19ff799,2023-10-29,South,Chennai,Office Supplies,Staplers,2033.77,13,457.73
+3f0215f8-c2a4-4544-afcd-f86f0ac7b27c,2024-05-20,North,Lucknow,Furniture,Tables,272.33,15,31.76
+3a8e8582-dcbd-476e-a6fd-614064283b59,2025-03-10,North,Delhi,Office Supplies,Binders,131.28,3,28.79
+424a8205-c69b-43b8-b990-7a14789d32bf,2023-10-20,South,Hyderabad,Furniture,Tables,5669.03,4,771.09
+612dd9f4-4da9-4c2d-91f5-935af4a9c3b0,2025-05-19,East,Patna,Office Supplies,Binders,5221.48,15,395.85
+84645369-b5b8-4e66-96cb-da7bf37f1e55,2024-01-08,South,Hyderabad,Technology,Printers,2941.62,5,365.07
+fcd17805-96c4-4ca8-97dc-dbb39e16071e,2025-05-21,East,Guwahati,Office Supplies,Paper,7124.78,6,1316.13
+4a6ccb6c-2c79-4eae-a8aa-3e1799a74723,2024-06-13,South,Chennai,Technology,Laptops,3854.27,1,731.57
+742e58ba-8a9f-4e3e-acd2-68d50094ed3d,2024-01-17,East,Patna,Office Supplies,Binders,9654.17,7,1808.21
+9597ed3f-2784-4490-bdfa-67243901fbf3,2024-04-14,South,Bangalore,Office Supplies,Binders,2828.27,11,384.77
+7141d910-b59b-4b6d-b350-42361d0c10fa,2024-07-05,East,Patna,Office Supplies,Binders,8436.9,1,696.24
+5e25cbcd-ad99-4a7b-98ca-6738a0da96cc,2024-04-17,South,Chennai,Office Supplies,Paper,5646.38,2,1236.66
+ce97faca-3785-4627-a786-f5745c9777d5,2023-12-08,East,Kolkata,Technology,Printers,7719.13,6,1015.18
+1ea75d4c-8267-456a-baa9-482ef514341b,2024-03-22,South,Bangalore,Office Supplies,Staplers,356.33,7,76.8
+8aee9b9f-93d7-4324-983f-022b52a56587,2024-08-14,North,Jaipur,Office Supplies,Binders,3540.81,15,438.15
+3fc160c5-4263-4ff1-9d23-53a1f4fe7be0,2025-02-15,West,Surat,Furniture,Chairs,9499.55,13,1696.14
+ed11caf5-e3dd-4ee7-9cfe-ebc0b69ec4d0,2024-05-29,East,Guwahati,Technology,Printers,8355.26,7,1574.32
+bc59a925-0334-4234-be9b-7c267fa70c6b,2024-07-03,West,Surat,Technology,Laptops,7847.03,13,951.34
+66aeb416-b7c0-4083-b6e4-f7e68924ee5c,2023-07-25,East,Guwahati,Office Supplies,Paper,3073.86,15,461.63
+33407e3f-3892-41a4-8c6f-3682b725c8a7,2024-02-04,East,Kolkata,Office Supplies,Paper,779.77,7,189.09
+065b6be7-34eb-4d6c-a8bf-5a732f6978f4,2025-03-16,South,Bangalore,Technology,Printers,1630.46,2,339.68
+22d1825d-e75a-4ef2-b684-addf4b5e9d8f,2024-07-19,East,Bhubaneswar,Office Supplies,Binders,8751.84,10,2146.18
+a93c6ca4-f6aa-450b-9f64-1c9e102f6d54,2024-04-07,West,Ahmedabad,Office Supplies,Binders,5834.22,6,550.86
+0a5ad5ff-0ca4-4fa9-80e5-b800734448ac,2025-04-06,East,Bhubaneswar,Technology,Printers,7716.45,15,1655.77
+16160e98-ee86-4332-b16d-3c0e7e302dcd,2023-12-27,West,Mumbai,Furniture,Tables,1577.77,4,182.54
+380c69af-5bec-438f-bc2b-e351fb0387ad,2025-01-20,West,Mumbai,Technology,Laptops,5997.18,3,445.67
+b0cbdab7-ca39-4803-9ead-a7089c6369ee,2025-02-16,South,Kochi,Technology,Phones,1450.97,12,271.65
+691f3c88-b605-4fe4-a416-379b4d8d8dd8,2024-02-13,South,Kochi,Furniture,Tables,8419.52,13,1735.8
+4ac5a5d3-ce54-4647-aa6e-bef8d54a719b,2024-07-25,East,Bhubaneswar,Office Supplies,Staplers,9997.93,4,1279.07
+91942ecd-5283-44a1-8145-3005fa6358f4,2024-01-14,North,Delhi,Furniture,Tables,4512.7,14,736.52
+47e20aa4-2be9-44ee-98a6-698224927fce,2024-01-24,South,Kochi,Technology,Phones,5612.67,12,647.94
+18796a15-799a-43c9-90c3-1aacd5182938,2024-11-20,South,Bangalore,Office Supplies,Paper,3871.38,11,593.03
+8cdab7c1-d42a-4745-b57c-08e7cb43c4df,2023-11-19,North,Delhi,Technology,Phones,5322.96,15,749.88
+c4d9fc3e-e4ce-472a-a005-de134452ec75,2025-02-12,North,Chandigarh,Office Supplies,Staplers,637.6,14,134.69
+f05373bd-b64a-4478-bf5e-ec3e86ff235e,2024-11-14,East,Bhubaneswar,Office Supplies,Staplers,981.17,13,216.11
+1d573d80-d4b4-4816-8bf3-3bc74e414a84,2024-05-09,North,Lucknow,Office Supplies,Staplers,4495.97,4,576.09
+43bbe41f-08f7-467a-9813-535521ae8820,2024-03-29,South,Chennai,Office Supplies,Paper,2201.49,12,527.75
+d5949908-7709-4f79-846b-7b3435580ad7,2023-07-26,North,Delhi,Office Supplies,Binders,817.59,15,194.79
+c1c8992c-c326-469c-bf6f-cd088d8fa667,2023-06-17,East,Kolkata,Furniture,Tables,6830.95,6,809.4
+14b4197d-0382-47df-ab2c-eb23450fecad,2023-11-27,East,Patna,Technology,Phones,9314.85,2,2142.92
+75920faa-5c8a-4b6e-83db-e10f191a4af9,2024-10-16,East,Bhubaneswar,Technology,Laptops,4943.28,7,503.44
+b1f005a1-18d1-4d61-995c-a40e5822080b,2025-03-01,South,Bangalore,Technology,Phones,5734.36,11,534.11
+47433403-7ca2-41bd-b734-04a467968200,2023-10-02,South,Kochi,Furniture,Tables,9651.22,14,2297.3
+e5f50159-e5c3-43c4-b243-3388ea4e578d,2023-10-31,East,Bhubaneswar,Technology,Laptops,2903.67,9,491.61
+9cd43edf-fbb9-4fac-a899-1c4e8aa24254,2024-01-05,West,Mumbai,Technology,Laptops,4499.02,6,350.39
+dc69f7cc-376a-4d12-8780-5cd102259585,2023-11-13,North,Chandigarh,Furniture,Chairs,6868.38,8,350.79
+b6840cca-008e-41e5-8f44-b4dcdd0b9c96,2024-11-21,West,Mumbai,Office Supplies,Staplers,3176.06,2,462.26
+493ea372-51f9-44ac-abd7-c02fd8f1e54e,2023-12-04,East,Bhubaneswar,Technology,Phones,8122.77,9,1631.22
+61ad55ac-4280-4327-b61f-91b315e0bf6b,2024-08-29,East,Guwahati,Office Supplies,Staplers,9818.55,10,1528.11
+19798f9f-6904-4f82-b3ee-1d16a8dd9977,2025-04-03,West,Ahmedabad,Office Supplies,Binders,7682.72,9,1746.08
+9b841240-843b-46ba-b833-a3a874d8379e,2025-02-27,West,Ahmedabad,Technology,Printers,8413.35,12,579.31
+1c7aa2d3-c27d-4e9c-8043-27e5e4e4d148,2023-09-28,East,Bhubaneswar,Technology,Laptops,6990.52,12,756.7
+6c443f5d-95ff-4512-9953-491b41aaf47e,2025-01-06,East,Guwahati,Office Supplies,Paper,902.82,11,148.49
+d3354413-9911-4c5b-a626-ae3667b97f93,2024-03-09,West,Mumbai,Office Supplies,Binders,2759.45,3,405.42
+0a473a32-a346-4e83-9415-2bff21ac5b3d,2024-08-24,West,Ahmedabad,Office Supplies,Paper,903.84,14,162.41
+3e14c251-3c85-4fbe-b760-d01a180febba,2024-11-03,South,Bangalore,Furniture,Chairs,5903.17,2,675.42
+dcad9518-5ae7-4f3a-aa7b-edb2f4a33619,2024-12-23,North,Jaipur,Furniture,Tables,8049.65,10,963.94
+a6b5d7bb-75a7-4138-917b-bfaf47aba929,2024-10-21,South,Hyderabad,Technology,Phones,6660.46,9,357.77
+b8cf7f06-df39-4e9f-8501-9aba98e4f0ae,2025-03-06,East,Guwahati,Office Supplies,Staplers,800.44,6,190.53
+25938bac-92db-4465-9f09-f80fb1bb2b50,2023-08-14,South,Hyderabad,Furniture,Sofas,2931.37,12,553.77
+5b343224-26be-44ad-b6af-229a7fc0d779,2023-10-05,East,Patna,Technology,Printers,9523.46,12,848.31
+e241819a-a701-473d-b1e5-6718a78f5df3,2024-09-24,West,Mumbai,Technology,Phones,9247.62,6,1770.1
+1e640818-4bb7-4ac1-af23-aea9261eb552,2024-06-13,West,Mumbai,Furniture,Chairs,4029.79,1,923.88
+6ad0c602-48b1-4b14-8f17-d0166f93558c,2024-02-12,East,Kolkata,Technology,Printers,3928.41,11,523.68
+bd47e438-3ab7-4088-bd35-25cdb3becc6c,2023-10-10,East,Patna,Furniture,Tables,8474.1,8,1643.96
+633a93a3-8b2e-415b-afe8-02757cd87878,2024-03-30,West,Pune,Furniture,Chairs,4213.93,2,239.03
+99db3275-f442-4906-868e-bc821e0a756c,2023-09-06,South,Hyderabad,Technology,Phones,470.41,8,102.45
+8173b93f-97a0-40b0-ad71-6c26c878e426,2024-05-03,North,Chandigarh,Furniture,Tables,2485.41,13,248.37
+ea407238-54f9-4521-9675-bad415391a4e,2023-09-23,North,Lucknow,Office Supplies,Staplers,2892.45,4,190.3
+7c4b9176-712a-4be5-a2d6-add89c2179d7,2025-03-26,North,Lucknow,Furniture,Tables,763.28,1,165.21
+6e0a6f56-820b-4067-8bce-f8fc3f70dd3b,2023-10-17,South,Hyderabad,Technology,Printers,3178.14,10,169.99
+a8cad3b2-ba1a-463f-aa8e-8c0e025257a7,2025-02-05,South,Hyderabad,Office Supplies,Staplers,9406.38,2,1828.48
+858e5ca8-5ae0-4745-981b-b26bafc3f483,2024-05-20,South,Bangalore,Office Supplies,Binders,6059.97,12,889.13
+74dcee7c-8fd0-4995-80e5-b034e4e167f2,2024-03-11,West,Ahmedabad,Office Supplies,Binders,5627.51,3,612.88
+4cfa623a-a216-4eb9-ac26-18531100bb27,2023-10-22,East,Guwahati,Office Supplies,Paper,7073.32,6,1401.08
+b21cc119-c0d3-4f07-a483-36d7e17cd43d,2023-07-11,North,Delhi,Furniture,Tables,8894.68,5,626.61
+3bc3c31d-8b71-4d03-9278-4e80e6dd7478,2025-03-28,East,Guwahati,Office Supplies,Binders,7347.65,2,500.95
+e3d08a26-bb36-4b0c-b15f-f8a6a9fb39ce,2025-02-10,West,Mumbai,Office Supplies,Staplers,8492.78,4,425.15
+d00e084a-75a6-4984-a195-4ebbfcdcae53,2025-02-25,South,Kochi,Furniture,Chairs,5886.55,12,930.55
+42b024d6-683e-4423-a237-2845f06a440d,2025-01-17,East,Patna,Furniture,Sofas,3700.46,15,395.63
+6bace91d-a756-4fb0-8d43-2c944f4aa236,2023-07-17,South,Kochi,Technology,Phones,2370.1,1,478.17
+8d574684-6e70-45d2-af76-32b9ed8534dd,2025-03-18,West,Surat,Technology,Printers,627.24,8,116.88
+6c0b1645-4ae1-490a-bb3b-cb06fb8c839c,2023-11-12,North,Chandigarh,Technology,Printers,8136.92,3,1671.47
+6c041431-0e8e-43bf-a3ae-684e223e7f9c,2024-10-29,North,Jaipur,Office Supplies,Binders,7756.33,14,1882.57
+438cc399-5eb0-4f45-9f86-f98f4b412239,2024-09-23,South,Bangalore,Office Supplies,Binders,7602.06,9,1887.85
+b5c84793-f373-494e-9bf7-0902cb3481de,2023-11-03,North,Lucknow,Technology,Laptops,9708.46,2,1506.84
+9ca416c0-b41d-448a-9965-a9473f0e6a83,2023-11-05,East,Guwahati,Technology,Printers,9364.3,7,1866.43
+a0777f2b-be8f-48bc-a22b-816ea459e6d8,2023-08-07,East,Kolkata,Furniture,Sofas,5746.66,13,746.82
+2137414b-d40d-4df4-a737-c34b38dac605,2023-10-28,West,Surat,Technology,Printers,3102.23,6,406.31
+aa7ecdfb-24e1-40a3-8b02-02c7e35d3d08,2025-05-18,North,Jaipur,Office Supplies,Binders,7654.55,5,1880.58
+07b80a4d-6dca-4067-a81f-0acf60c6c386,2024-10-07,West,Mumbai,Furniture,Chairs,2577.38,15,615.68
+e76a06b3-f8d7-4218-b711-279172479d3d,2023-06-21,South,Chennai,Office Supplies,Binders,5373.15,15,1186.11
+4717e4e1-478b-4e88-9556-d9f47a8cd32c,2025-03-20,North,Jaipur,Office Supplies,Paper,9086.45,11,1705.17
+10f1b773-e62e-4a1e-b063-45909fb6aab6,2024-03-12,East,Patna,Technology,Phones,3449.26,13,634.15
+cb35b4dd-2846-48b6-8b2e-493f23c8b98b,2024-06-11,South,Kochi,Office Supplies,Binders,1428.51,15,107.49
+391ebdbe-8c7b-44fb-9748-0ccef68b99cc,2024-08-20,North,Delhi,Office Supplies,Paper,2852.88,8,206.0
+5dbe026f-c0dc-4ff5-8779-67a4fb651fbd,2024-05-09,East,Guwahati,Technology,Phones,6741.87,2,520.96
+8a74a2ae-145b-4cbd-ae1c-866b52a0baae,2023-09-14,East,Patna,Furniture,Tables,3740.51,15,454.38
+b45d2533-aa52-44f9-b87c-b46374c3e315,2023-12-08,North,Jaipur,Technology,Laptops,9317.43,5,2078.14
+e46b9e3a-33af-41a0-b24f-aa1018eab7c6,2024-02-03,East,Bhubaneswar,Office Supplies,Staplers,7459.75,15,1222.25
+a0693f29-ecff-4aa5-b279-7ba74dd6b6a3,2023-11-25,South,Hyderabad,Technology,Laptops,2014.18,13,160.59
+3462d8e8-09af-4a53-bac6-ee5dcfb3ead2,2023-11-29,North,Jaipur,Technology,Laptops,2783.44,3,442.28
+bb1eb829-41ac-45db-adb5-3741f2b2e25b,2025-05-18,West,Pune,Technology,Laptops,1561.75,14,163.89
+81287852-9008-4d8d-9c1b-1fae2a22e0fc,2023-07-29,East,Kolkata,Technology,Laptops,9149.81,12,2106.05
+61ac5fe8-c6b7-40a2-b3e6-af84e4b0a4cb,2024-01-02,East,Patna,Office Supplies,Paper,1872.86,15,382.01
+0631ebfc-62eb-458c-88f3-9cd2c492fa90,2023-07-19,North,Lucknow,Furniture,Tables,7362.08,4,1064.34
+94f1be9e-d3b5-4195-9518-4870f47c13e9,2024-09-01,West,Surat,Technology,Laptops,8787.86,3,622.73
+0cea8ea3-613c-4fe9-9fa2-84c8a402aa55,2024-12-05,East,Bhubaneswar,Technology,Printers,8880.91,13,729.29
+929e66bb-bcc1-46fb-9794-2363d04d544f,2024-09-06,West,Surat,Technology,Laptops,7944.23,15,1667.38
+5d7a9d0b-177b-4c2f-8fc6-6accd5790c57,2024-11-16,East,Bhubaneswar,Furniture,Sofas,527.35,7,84.69
+248d7066-1fe2-45eb-962b-f9f25fceedbc,2023-11-14,North,Lucknow,Furniture,Sofas,9323.45,1,1472.35
+f55c4980-2dbd-491f-abc0-0e4927ba4bf4,2023-07-29,East,Patna,Office Supplies,Staplers,2900.19,13,164.28
+5c2ae0fc-1159-4bca-8c60-22615060b3bb,2025-02-11,West,Mumbai,Technology,Printers,8372.76,14,657.49
+720a2a5c-d9be-4e15-a71f-4c0c76a022f2,2024-08-28,West,Mumbai,Office Supplies,Binders,6993.68,5,851.31
+d4885cad-51cc-4e77-b0eb-15696a25ba2f,2024-12-12,South,Bangalore,Furniture,Chairs,8935.91,2,1531.81
+8d175494-e866-42a0-b450-f0520a755b20,2024-01-26,West,Mumbai,Office Supplies,Binders,5724.03,10,832.15
+bde56b80-08a6-4317-8a27-b2078056d888,2023-10-27,North,Delhi,Furniture,Sofas,451.61,7,96.54
+e8b60b08-3bcf-4bf2-ba7e-ebc343d56736,2024-06-15,East,Guwahati,Office Supplies,Paper,7698.39,12,658.77
+95cc2afb-9070-4278-b186-a0e580d594e3,2024-02-23,East,Kolkata,Furniture,Chairs,1970.96,3,296.96
+8cb20b4f-c527-4b0b-997c-eaace45f8247,2024-01-20,North,Delhi,Furniture,Chairs,6566.89,11,354.42
+584cd606-3097-45fa-90b4-8dde6a9384d3,2024-05-12,North,Jaipur,Office Supplies,Paper,2666.72,14,161.91
+d79bbcbc-a054-48fc-9718-68e60cd44719,2024-02-28,East,Guwahati,Furniture,Sofas,8781.11,3,660.14
+ee6c37db-b1c3-41dd-88b1-cdf591045f89,2023-10-29,East,Guwahati,Furniture,Sofas,4925.74,13,350.19
+ddd566c5-438e-4ffc-8c98-e97449fb2644,2024-12-04,North,Lucknow,Office Supplies,Staplers,1601.13,1,249.72
+3ecf44a2-6690-447c-8e32-b2e31fa715d9,2023-11-26,South,Chennai,Office Supplies,Binders,5038.55,11,846.83
+d8c7412d-3b15-44c7-9524-a58d5f04db9a,2024-03-04,South,Hyderabad,Furniture,Tables,7067.82,4,395.82
+0634476b-bdd1-4dc7-9055-85bb6c4148bc,2024-05-26,East,Guwahati,Furniture,Tables,6671.44,6,1053.82
+9c6c5977-00f3-44ac-bc81-58fbaed10ea6,2025-03-21,North,Chandigarh,Technology,Laptops,1205.12,9,185.32
+bb844821-ab2c-41a6-b4d8-7be36fb4964f,2025-03-17,West,Surat,Furniture,Sofas,456.34,9,29.02
+11170df1-29d2-4a82-8a83-bc7e71e2f4c0,2024-01-26,West,Mumbai,Office Supplies,Paper,2446.41,6,150.37
+890180f6-7d74-4532-9033-322965482562,2024-11-07,North,Chandigarh,Furniture,Chairs,3615.28,14,835.18
+c797e819-f29f-4d4f-9ab2-900259974d22,2025-05-28,West,Pune,Technology,Printers,7792.96,8,608.33
+28d7150b-21a0-4800-bc20-7bc6abe11bfd,2023-08-12,North,Jaipur,Furniture,Sofas,248.54,5,14.65
+fb2b3575-22ee-4616-8105-9aad96705ce3,2024-11-04,East,Patna,Office Supplies,Paper,3707.9,12,743.4
+91c9e98b-c6c8-4c1c-9a1f-d34ff447e937,2024-03-17,North,Jaipur,Technology,Laptops,3327.92,7,623.99
+153c177a-f295-4f1a-b4fa-56cbfe55e57e,2024-11-11,North,Jaipur,Technology,Printers,9369.66,8,2268.41
+5db398d6-c46a-4bcc-b901-a58380fef49f,2025-05-14,North,Jaipur,Office Supplies,Paper,5221.47,11,1303.74
+cdedfbb6-603d-49ab-bef9-e4f07b3177c6,2024-01-02,West,Mumbai,Office Supplies,Staplers,7204.41,10,692.07
+5213c94a-eef2-431b-a99f-d2c1e3d1b330,2023-11-05,North,Delhi,Technology,Printers,3816.06,7,691.62
+4aaba248-3a66-4343-90bb-6e4bf77ef827,2025-04-27,East,Bhubaneswar,Technology,Laptops,6121.91,10,1410.65
+4ca3ad03-1e5f-4741-8036-a65ea7af1e66,2025-04-20,West,Mumbai,Furniture,Tables,8525.48,4,1328.42
+5acc11e9-ecd9-4c58-b0c8-1820d0f5b802,2024-08-08,West,Ahmedabad,Office Supplies,Staplers,7016.81,14,1589.69
+f6d3f610-b127-4ae5-8e16-21a90f1ab05b,2023-08-16,East,Patna,Furniture,Chairs,3537.82,9,451.8
+d0b07b01-7afa-4baf-b668-d3ba61f2532f,2024-07-12,North,Jaipur,Furniture,Sofas,7259.25,9,537.48
+12363b95-4b5e-44db-85c4-c6663ffe033c,2024-10-10,West,Pune,Technology,Printers,1973.65,9,405.44
+e9a5b545-f63d-41b8-a2fc-62ba8f30f580,2024-06-27,West,Surat,Office Supplies,Staplers,6579.76,6,1217.3
+9123bacd-ed44-4a2d-bbb8-106649146037,2024-02-14,East,Bhubaneswar,Technology,Phones,5810.95,11,1373.5
+59359ae3-b38b-43a5-9892-0ac60c6999ab,2023-10-02,North,Chandigarh,Technology,Printers,7659.78,13,704.63
+9474a00e-b902-4639-946e-6729c96f4d17,2024-10-17,South,Kochi,Office Supplies,Staplers,3934.83,1,668.24
+1a552bb8-0725-40f5-bdb8-fd7a750e5322,2023-06-02,West,Pune,Technology,Printers,6322.95,4,1419.49
+0ffd5e9d-1baf-4c21-9050-dfa235f336c3,2023-11-29,South,Bangalore,Office Supplies,Binders,6440.99,13,763.25
+80caa862-80b7-4664-b536-51de7dad6604,2024-06-05,North,Jaipur,Technology,Printers,5119.54,2,467.23
+5531f051-74b2-46c9-92dd-96b099dc3977,2023-12-06,East,Bhubaneswar,Furniture,Chairs,4092.69,15,531.01
+28eaeb42-aea1-48d9-af8c-d97bdf91765d,2023-07-08,West,Mumbai,Furniture,Chairs,8563.26,4,1866.86
+66a88ac2-e907-4ca8-86b1-db01e5a53635,2023-09-14,North,Chandigarh,Furniture,Chairs,5114.68,13,309.51
+196f9e46-ff9d-482d-ae0c-6c0a686df4b4,2023-06-07,West,Ahmedabad,Technology,Printers,9637.34,15,1082.68
+0421f7ad-0d70-4abb-8236-2f9fa77ba674,2024-10-11,North,Jaipur,Furniture,Chairs,5739.75,14,621.71
+d3da500c-5fda-4733-99c8-b4ff72aafe46,2024-05-13,East,Bhubaneswar,Furniture,Tables,2723.48,11,168.53
+1386ae74-1185-40e5-905f-1f2825c8137c,2024-12-03,East,Bhubaneswar,Office Supplies,Staplers,2007.32,13,415.02
+a69bf2e5-669e-4317-ba4b-03f42f7595d5,2025-02-09,South,Kochi,Office Supplies,Binders,8311.2,10,2013.64
+ddc18128-75d9-49a6-a262-893442a290ae,2024-06-19,West,Pune,Office Supplies,Paper,8744.18,14,1073.45
+950604a4-ac6f-4569-bdeb-7a0d47a34202,2023-09-26,South,Chennai,Furniture,Tables,6003.1,12,1017.56
+67e53456-0325-4e02-bc0a-82323ee41fab,2024-09-19,South,Bangalore,Furniture,Tables,5975.03,10,629.23
+15d9d19f-a901-4971-8a0b-f160042cda20,2024-04-14,South,Kochi,Furniture,Sofas,6960.56,15,396.54
+2634eee5-7d86-43b3-aac3-fb4bc79c5391,2024-06-30,South,Bangalore,Office Supplies,Binders,8341.62,2,809.73
+7cc48940-132e-46a2-adf3-c09b56e672db,2025-05-24,North,Chandigarh,Office Supplies,Paper,2246.92,9,330.19
+ff5e080d-909c-4567-bbc3-5dc29d6e0637,2024-05-01,East,Patna,Furniture,Sofas,3183.02,13,624.84
+62575b0b-0daf-4c4d-8f23-eeeb8adc0940,2025-05-23,West,Surat,Technology,Phones,5279.71,11,1043.99
+58c284c0-829f-4aac-a89c-361ab4938641,2023-09-13,East,Kolkata,Office Supplies,Binders,6535.35,3,1488.52
+07e9f02f-5ab9-43a4-a41b-e86f2325cb60,2023-07-10,East,Kolkata,Technology,Laptops,706.78,12,104.0
+ab58a03d-30e2-49c7-b1db-16dcbfdd65e9,2025-01-01,North,Lucknow,Furniture,Sofas,2329.9,11,275.14
+5b3d1e64-f8f7-44ba-821a-8887267eb107,2024-02-09,South,Hyderabad,Furniture,Chairs,878.7,15,99.22
+e7cb4de3-c854-46f1-a1f1-c01db6808ac5,2023-12-11,West,Mumbai,Furniture,Sofas,4106.07,14,502.64
+4f8984a2-f6ba-41a9-b5e9-8cd271287449,2024-11-20,East,Patna,Office Supplies,Staplers,4791.18,9,968.6
+c9b8b8b3-968c-403a-8ff6-681921923229,2023-09-02,West,Pune,Furniture,Sofas,8821.87,7,479.56
+d748a235-9e95-46e1-9309-e0339937af15,2024-07-18,South,Kochi,Furniture,Tables,8731.82,13,1298.56
+67c26c2e-cfb9-454c-9438-755e32bcea36,2024-08-14,North,Jaipur,Furniture,Sofas,1277.6,13,279.18
+44c99523-10ad-4dac-8a33-cf6f2cf8b01d,2023-07-17,East,Guwahati,Technology,Printers,8460.05,11,1568.88
+f000bce1-bcd0-4dd4-99c1-50b87ae9c5c4,2024-10-02,North,Chandigarh,Office Supplies,Staplers,6161.58,9,555.83
+163aa854-ea8d-4eb6-8bf1-1b8245f11a1c,2024-09-17,North,Jaipur,Technology,Phones,5833.64,10,1146.83
+7f97f56f-d1a9-4078-8ce8-bfb94f75017e,2023-08-26,South,Chennai,Technology,Printers,4918.46,15,578.74
+7ab2b77f-2104-4a85-94e9-0a8b05ccdc22,2024-06-09,West,Pune,Technology,Phones,7961.99,15,1186.74
+158004fd-7fa3-4e94-a32c-45f143fcac4e,2024-07-01,East,Patna,Furniture,Sofas,2690.21,5,377.1
+63fee04f-8bb9-4b7f-a506-4e29d9c02958,2024-09-04,North,Lucknow,Technology,Printers,5567.22,1,1099.25
+ed45f82b-3f2f-407c-a15e-03598035352e,2024-06-23,West,Surat,Technology,Phones,356.82,14,29.47
+a15a2109-d2b5-4be2-96d8-545637a264b8,2023-08-06,North,Delhi,Office Supplies,Binders,1107.19,4,98.63
+349d7d30-4daa-411a-8dbb-9f0790e421a6,2023-11-02,North,Jaipur,Office Supplies,Staplers,9333.16,15,2297.17
+723807c7-72ce-4f4f-80e7-840ba9def171,2025-05-05,West,Ahmedabad,Office Supplies,Staplers,1046.75,15,229.27
+5a84e48e-924f-4ccc-9442-96a774ff5577,2024-09-21,South,Kochi,Office Supplies,Paper,3543.38,10,863.54
+2faf4f80-8b1c-47a7-99da-6e76fb2a9066,2024-01-26,East,Guwahati,Furniture,Sofas,452.03,9,32.17
+d47d79f2-2f4b-4e7b-bd38-3c64070019c8,2024-12-16,East,Patna,Office Supplies,Staplers,3276.87,9,695.85
+1cc74490-6193-4a4e-ada4-c31ec7025eaa,2025-04-07,South,Bangalore,Technology,Printers,6483.25,14,517.72
+7e56506f-bc7f-4c3d-aff1-31e7bbe92894,2024-10-08,North,Chandigarh,Technology,Laptops,4792.93,11,881.35
+8787d8a9-9376-433b-9d9b-38a191c38773,2025-03-06,West,Mumbai,Technology,Printers,9176.96,8,1038.1
+f2f1239b-4c08-4dff-a0ad-244f9816443a,2023-08-16,East,Bhubaneswar,Furniture,Tables,7443.19,13,1801.84
+f674e4fd-a862-4c5f-90ad-26f167571332,2023-12-10,South,Hyderabad,Office Supplies,Binders,1538.42,1,223.89
+de020173-4db4-4a6a-be05-7979646e7c34,2025-02-03,North,Lucknow,Office Supplies,Binders,7400.72,5,1399.93
+5bd68e8d-5992-4540-b214-9abf644715fa,2024-02-11,West,Pune,Technology,Printers,6271.48,7,475.36
+413475f3-ff77-4e8d-849c-e82d6f5aea80,2024-07-15,South,Chennai,Furniture,Sofas,1941.75,2,187.4
+2adac346-7d05-4b18-ba44-0718284826eb,2023-12-31,North,Delhi,Technology,Printers,1371.57,10,132.95
+d6559df2-68ba-4d01-b9ae-3a880275d759,2025-05-20,East,Kolkata,Technology,Phones,6916.04,14,1251.6
+39bea329-819f-4857-9df6-f059281ef613,2025-01-20,South,Hyderabad,Furniture,Sofas,7694.15,5,1771.41
+7782bc34-ec11-417e-9abb-a94323d29931,2024-11-29,North,Lucknow,Technology,Phones,5331.76,8,839.15
+f860f5ea-88c6-4a99-b733-01c02b83dfcf,2025-04-11,East,Patna,Technology,Printers,8157.18,10,1728.0
+285094bf-5b3e-464c-8817-cf08cbfb8610,2023-05-31,East,Kolkata,Technology,Laptops,6084.26,5,820.61
+aca74825-06e2-44de-b461-cf6b22c194e5,2023-11-21,South,Chennai,Furniture,Chairs,1436.78,6,202.64
+69786998-e50b-4c0c-bbfa-5f64c9d25c16,2024-01-30,North,Delhi,Furniture,Chairs,4173.66,14,346.49
+0d6c223d-ebfc-466f-8871-0f58f4ac7816,2024-06-05,South,Hyderabad,Office Supplies,Staplers,3008.59,1,186.7
+ac5f1e63-38fe-47d5-83df-c906f29502f1,2023-07-11,East,Bhubaneswar,Furniture,Tables,284.86,3,33.01
+d1546c6f-3784-493b-aa5d-ab0b3427a6b6,2024-01-06,West,Surat,Furniture,Sofas,2669.15,9,420.32
+2baa84f1-3676-4994-9592-cf3cc8b54c1e,2024-09-01,East,Patna,Furniture,Tables,6703.82,12,1029.15
+e2af6619-297a-4f92-8bca-79ef54909d1c,2024-04-10,South,Chennai,Furniture,Sofas,1544.36,1,250.83
+40691e1b-5062-4acb-b2be-d5134dd2971a,2023-08-16,West,Pune,Office Supplies,Paper,1276.14,14,281.09
+cf10c0b3-5add-4473-be86-e65dcbf27a9a,2024-07-17,West,Ahmedabad,Technology,Phones,1172.46,11,262.89
+a6f39f00-c187-485d-9cbc-2c4417044ae4,2023-10-12,East,Kolkata,Furniture,Tables,6272.74,11,479.46
+944aa2a5-d38d-4a10-9947-42eec6603f2e,2025-03-31,East,Kolkata,Technology,Phones,6168.91,8,1244.12
+ae280342-8047-43c2-acd4-365262e5328d,2025-01-23,West,Mumbai,Technology,Phones,6179.94,10,462.06
+620aed40-8255-46e9-a33b-912fbe8ed4f8,2025-04-12,East,Patna,Office Supplies,Staplers,3406.49,15,754.38
+55e8a7b5-4537-4b89-a76c-39cb11dc95d4,2023-07-18,South,Kochi,Furniture,Tables,7179.02,3,1126.25
+85ea3f55-198d-4018-92b1-467487b2397e,2025-03-24,South,Bangalore,Furniture,Chairs,565.42,1,117.44
+95ba4b21-2dd9-419e-9315-08a6a07171a8,2024-05-26,South,Hyderabad,Furniture,Sofas,7311.84,15,1031.46
+6edc20c7-c4ab-4d01-b3d6-5fa4221b9d09,2025-03-22,East,Guwahati,Furniture,Sofas,5808.79,12,727.9
+a1a1c155-fa06-4f76-8bb1-c2204f06578d,2024-05-11,East,Kolkata,Technology,Printers,4383.12,6,871.4
+a8c13596-64d1-4c9a-9e6b-e83daa3019d5,2025-04-25,South,Chennai,Office Supplies,Paper,8696.35,10,447.02
+160f3087-d99e-433a-9ab9-08b84b3073d5,2024-08-22,South,Hyderabad,Technology,Laptops,2628.98,12,463.97
+b5216b51-8b8c-4cce-8e63-2d1926e61e52,2024-09-06,North,Lucknow,Furniture,Chairs,6449.14,8,1566.46
+e7154c06-37b0-49e3-ae0d-a44a2e93f6f6,2025-03-28,West,Surat,Furniture,Sofas,4453.01,10,448.53
+a1fe1505-7269-4c29-892c-ad64de7fe37f,2024-01-18,East,Kolkata,Office Supplies,Binders,7286.94,9,991.9
+1938cec1-5103-4c2c-be2d-e8ce214fdf47,2025-02-05,South,Chennai,Furniture,Chairs,6902.55,12,884.45
+cb15fe27-66ae-41cd-86e4-d35b4cb07f70,2024-04-25,East,Patna,Furniture,Chairs,4285.97,4,653.68
+34053e16-0cba-436e-827c-c36d6782b2ac,2024-02-09,South,Kochi,Office Supplies,Binders,8478.42,9,1926.39
+dee1299a-8aa2-4dd6-8f8b-9a4c04afe9c1,2024-02-25,South,Chennai,Technology,Laptops,9320.99,15,1256.58
+623eb466-1484-4c2f-a89d-282c1e63e09f,2023-11-01,North,Lucknow,Furniture,Tables,3324.03,3,301.29
+71ef7848-ce40-432a-ba56-8d292b33caf9,2024-02-06,South,Kochi,Furniture,Sofas,6655.24,3,774.16
+ce0e8d58-b848-4173-80fa-88870c1a12e5,2023-09-29,North,Jaipur,Technology,Printers,5616.74,5,996.24
+31de6aa3-d79a-4c60-a8f2-6ca5140b04a6,2024-06-22,West,Ahmedabad,Technology,Phones,992.05,14,100.98
+a055c231-e690-4e05-b297-2dc1417a0ffa,2025-04-15,South,Chennai,Office Supplies,Binders,4705.27,12,356.36
+ec2765b2-5b37-426b-aff9-79b127d5c40a,2024-01-31,South,Kochi,Office Supplies,Binders,1863.58,1,458.77
+068a86cf-24af-4bf0-812a-fd7b00b67363,2023-07-24,North,Chandigarh,Technology,Printers,1562.41,7,115.09
+be7e509c-4caa-4f7f-9888-320d183c9991,2024-12-26,East,Guwahati,Office Supplies,Binders,1741.23,4,120.22
+51a41ef3-2d8d-41ea-bd6c-d0830deedcfe,2023-10-03,South,Bangalore,Technology,Laptops,6778.47,10,414.51
+4726f980-0585-4fb5-b37e-c8ec823ca8a4,2024-07-30,South,Kochi,Furniture,Sofas,8528.47,5,2077.54
+ca202610-2b9a-4b2a-b594-98757c130fda,2025-02-27,North,Lucknow,Office Supplies,Paper,1423.16,10,309.6
+d2ee2ced-65b5-4fd9-9ca0-dd6a21bf566e,2023-06-19,West,Ahmedabad,Technology,Phones,5824.76,8,308.11
+e0bb2a68-43d3-44e7-b9c9-a6d74a8ac198,2024-11-10,South,Kochi,Office Supplies,Binders,4117.61,5,877.13
+8eea7196-e2d1-4bb6-944e-0efd5aced837,2023-10-04,North,Chandigarh,Office Supplies,Staplers,5490.9,1,760.53
+6efa531e-9a2a-4a65-9c53-a1e1ce55f272,2024-05-28,South,Hyderabad,Technology,Printers,143.44,3,26.66
+4cafff71-8f0f-452f-b66d-6f89d85bc89a,2023-09-10,East,Patna,Technology,Laptops,4286.11,11,853.5
+ba72548b-75a8-4db4-a5d7-d233de1dd394,2024-06-19,South,Bangalore,Technology,Printers,626.76,8,91.79
+116a60dd-0fc9-469f-800b-6e15ee28819c,2023-08-21,North,Lucknow,Technology,Printers,6369.62,9,1305.14
+ef669214-21e4-4d33-b642-13b4d150eaac,2024-02-11,West,Pune,Technology,Phones,2182.37,1,113.32
+77e680da-b0d1-4094-aacb-c615c735cec0,2023-07-23,East,Guwahati,Office Supplies,Binders,4581.45,13,885.44
+6187b857-5fbd-471a-83a0-e8a889c0c9cb,2025-04-04,North,Delhi,Furniture,Sofas,3851.85,3,644.97
+c51b2625-dce4-4a11-bc32-dc61dda60fdc,2025-02-10,West,Mumbai,Office Supplies,Binders,8557.82,3,1261.29
+673e87e4-c784-4f18-827a-e6a86524f13c,2024-09-24,South,Kochi,Office Supplies,Staplers,6110.47,7,1492.18
+727c6a0e-fbc9-4b18-a231-40dd2dc95553,2024-09-17,East,Patna,Office Supplies,Staplers,5848.23,12,1217.91
+e09c9ca4-baca-4efa-ae4a-d8ad5d73d78f,2024-01-13,North,Chandigarh,Technology,Printers,4450.57,7,482.36
+d4e23bb6-88b4-45f7-806e-1ed1bdecd5a6,2024-02-02,West,Pune,Technology,Phones,4944.05,10,573.67
+d56fd7b0-49ce-4d88-95ea-dca6eac9078e,2024-01-20,South,Bangalore,Furniture,Tables,3862.53,9,383.33
+6c16767b-cf4b-44a5-a7ba-13e920e820ef,2024-12-31,North,Lucknow,Office Supplies,Paper,6686.87,1,490.43
+fe3731b7-eba0-41c7-85e5-45bdf4fb53b2,2023-06-07,South,Bangalore,Technology,Printers,6412.68,15,771.38
+e0eb8c87-56c0-44eb-a512-c08187116b2c,2023-08-23,South,Bangalore,Technology,Laptops,855.57,10,46.57
+cb215a1c-3fdc-4fb0-a8e2-716e5dde0c77,2024-08-10,East,Bhubaneswar,Furniture,Sofas,1008.72,13,218.99
+9fdbe972-df8e-4c9b-a85d-0562ae85fa13,2025-05-01,West,Pune,Office Supplies,Staplers,6763.66,8,1303.84
+4a1901fa-e64e-4635-8968-603d94adb334,2024-12-19,South,Bangalore,Technology,Laptops,6950.88,4,806.89
+6810c039-9cd4-43fd-a080-2b2a73145491,2024-12-14,North,Chandigarh,Office Supplies,Paper,7316.39,14,1564.44
+ea01a520-85a1-46f0-b34c-6653f11114d0,2023-12-24,North,Delhi,Furniture,Sofas,448.23,11,92.45
+3d60b093-e07e-4380-babd-465897bea335,2024-02-11,South,Bangalore,Office Supplies,Binders,2864.76,14,638.25
+c7a2f7b7-152f-4de8-bc97-8d8c92568613,2024-06-25,North,Chandigarh,Office Supplies,Staplers,8048.61,9,860.49
+13347793-3fb7-46b7-a90a-4901e2a93d37,2023-07-01,East,Patna,Office Supplies,Binders,7094.24,10,723.1
+6d318c56-bb65-4d5d-bfc2-965e833f2a94,2024-07-17,South,Kochi,Technology,Phones,6263.14,1,1467.54
+bf669795-f629-4df6-94eb-56da6c2d2ee6,2023-12-06,West,Mumbai,Office Supplies,Binders,9928.31,8,1427.6
+981a9c08-6cfb-409d-a6e5-e31d3babad0d,2024-01-26,East,Kolkata,Technology,Phones,2895.27,14,432.5
+55915f0a-fea0-419f-85b6-9aeed7c826d6,2023-12-03,North,Chandigarh,Technology,Printers,4253.13,6,584.14
+daa4714c-3db3-48fd-a7bb-5c39f41744fd,2024-02-12,West,Ahmedabad,Furniture,Tables,5217.22,15,439.35
+464ccd9f-ae44-4cf6-bfb7-7fc82d460d5e,2024-09-27,South,Bangalore,Technology,Phones,2378.59,5,218.34
+a6d8c99b-ffe3-46dd-8db4-22c4c66fcd93,2025-02-09,South,Chennai,Furniture,Tables,8227.65,12,1500.57
+0910081e-b19a-48c5-a01c-0391816494a2,2023-11-28,South,Hyderabad,Furniture,Tables,2208.08,6,244.66
+5f2bff2d-57e0-4a05-80f7-643810ab5a49,2024-04-15,West,Pune,Office Supplies,Staplers,6958.36,5,377.33
+8cbecb46-785c-4124-a3ce-e785d2e626b2,2025-05-09,East,Bhubaneswar,Office Supplies,Paper,325.13,3,18.66
+25afcb18-cc24-48fe-beb9-60faa99ca35f,2023-10-10,West,Pune,Office Supplies,Staplers,7081.54,6,489.41
+833fd3aa-24b6-4733-ab3f-04316ef4a287,2024-06-26,West,Surat,Office Supplies,Paper,4008.81,5,709.09
+4da02c7d-c2b3-4ada-9583-b003ee091843,2024-04-22,North,Lucknow,Furniture,Sofas,7951.31,13,1871.0
+3e9facea-7529-4d0b-aa15-f3846ff1d12d,2023-07-24,North,Delhi,Furniture,Sofas,8564.83,8,1026.4
+b8263eea-5cf3-4a59-acaa-c94c9765cdad,2024-08-08,North,Lucknow,Office Supplies,Staplers,8915.87,7,1987.58
+59fe91cd-fcaf-4611-b023-cfcf13379d47,2023-07-22,South,Kochi,Furniture,Chairs,7966.23,15,476.88
+643d33e3-0397-4f7c-a5fc-fc1f538058f2,2023-11-25,North,Delhi,Furniture,Sofas,1226.73,7,264.97
+ebdd82f7-8684-4037-818c-50cfa0181da5,2024-09-11,East,Patna,Furniture,Chairs,8166.75,8,950.39
+0ae273ed-0f2f-4272-a613-139c592e4c68,2023-12-21,East,Guwahati,Office Supplies,Binders,2800.19,13,213.64
+d81c6508-a10b-4147-baf0-ac7b9f87bbb6,2024-03-17,South,Chennai,Technology,Laptops,1477.43,2,114.07
+bec9e1d8-1a1b-4e32-a9fc-8fb243c71ec5,2024-11-17,West,Ahmedabad,Technology,Printers,8361.81,14,1795.3
+25650a3c-1415-4f82-811e-89911f3aef73,2024-10-13,South,Bangalore,Office Supplies,Staplers,7420.99,9,865.02
+c71f4529-a882-4195-b5f3-a723760102e4,2023-07-10,East,Guwahati,Technology,Phones,2330.18,6,256.94
+4f20dfe6-43f4-49d0-9b6f-9981834e4482,2024-04-16,East,Patna,Office Supplies,Binders,256.16,3,29.9
+e555909f-d791-4e51-ba78-910bb996944f,2023-08-03,South,Kochi,Office Supplies,Staplers,9871.08,12,1761.97
+cd795be5-d7ae-47bc-ad8d-1d2ca8db6507,2024-03-01,North,Delhi,Technology,Laptops,1020.71,15,139.76
+1b11fba0-a935-4692-948e-26804adbbfee,2024-10-20,West,Mumbai,Technology,Phones,915.9,6,210.18
+110e0a2b-a6f0-4d2f-b511-7040080b0b6f,2024-02-18,South,Kochi,Office Supplies,Paper,4823.11,1,381.83
+0aca9379-cc8b-4e02-b104-f819a32f2674,2023-10-31,North,Jaipur,Office Supplies,Staplers,2285.4,4,432.7
+a4c60b25-73eb-4cf7-8810-79bca5a78808,2024-01-03,North,Lucknow,Technology,Printers,9993.22,15,760.87
+c6b53af0-76c4-42dc-bb55-f3d1ed5b0a35,2023-12-22,East,Patna,Furniture,Sofas,6544.13,6,522.12
+936ea5e9-ad96-45dd-8fde-981dff3b5726,2023-08-17,South,Bangalore,Furniture,Sofas,4102.91,11,288.4
+ca05a616-b879-4774-82f6-56fa06c3b29b,2024-05-23,West,Pune,Furniture,Tables,3866.93,13,744.05
+d5f8ce08-b864-4995-9ad5-3158b280532e,2023-08-08,North,Chandigarh,Furniture,Tables,9921.13,10,766.13
+61affd4b-29c7-4d6b-b6aa-a52cbc7b772f,2023-09-07,West,Pune,Furniture,Chairs,5898.3,13,407.0
+f28e5401-79cb-43d3-9288-da6c8568b676,2023-11-04,South,Hyderabad,Technology,Laptops,9393.47,3,1393.82
+60dd7934-f069-4ae6-89ee-562cb3def5a1,2024-04-22,South,Hyderabad,Office Supplies,Staplers,5178.39,2,726.68
+fd1542cb-ecd5-445b-94c9-fd75a28721ad,2024-12-11,East,Patna,Office Supplies,Staplers,3507.77,14,837.7
+749aaacb-f953-4edb-9322-9fcde86a3c72,2024-07-10,South,Chennai,Technology,Laptops,7174.81,3,1676.29
+1f0e9482-d5a4-4da3-a71e-0fc182bf9eb6,2024-03-01,North,Jaipur,Technology,Laptops,3349.18,5,653.66
+e8dbdb5b-5ccf-455e-bfb7-3f6984fcb7d6,2023-10-09,South,Chennai,Technology,Laptops,6316.29,5,1263.12
+102bb69a-18f9-402a-b5ff-e449da8d5282,2023-12-09,West,Ahmedabad,Furniture,Sofas,1150.95,11,184.69
+9c15ba36-8399-45f0-aa91-6409fecafadd,2025-04-23,East,Guwahati,Office Supplies,Binders,6516.28,11,1431.49
+81dfa065-2db8-47ff-9b6d-fa180e84c64a,2023-09-02,West,Mumbai,Furniture,Sofas,7242.32,14,880.78
+7c94bac9-73fb-4f1e-b040-27710d5c9e9b,2024-01-19,North,Delhi,Furniture,Sofas,2986.9,14,209.83
+8080a5b6-b8a9-47a9-88be-dd6a31e19a69,2024-12-30,North,Delhi,Office Supplies,Paper,9656.76,2,1949.85
+4d955316-529a-4e48-b817-c251d6274852,2025-01-20,East,Bhubaneswar,Technology,Phones,2200.65,7,206.33
+5071a5ef-27c4-40aa-940b-9253b702d348,2023-06-17,South,Hyderabad,Office Supplies,Paper,7860.47,8,798.83
+81588c64-394b-4a7f-99d7-49d5fbbd04ce,2025-05-17,South,Bangalore,Furniture,Sofas,5613.42,15,994.28
+49933f05-d148-4c65-b799-a50809f66655,2024-05-27,East,Bhubaneswar,Office Supplies,Paper,9960.06,13,592.7
+935a0ac3-cc86-4850-81fb-4268ab252590,2025-02-21,South,Hyderabad,Office Supplies,Paper,8767.22,1,741.15
+420c2809-55cd-4916-8481-0216769d955f,2025-01-23,North,Lucknow,Office Supplies,Binders,8974.9,14,824.83
+54045c72-ad0c-464e-b6cb-14b578870d06,2023-10-24,South,Hyderabad,Furniture,Tables,2712.18,9,234.76
+9c1b6ae8-734f-48ff-90ba-57a0c4c082d2,2024-11-02,East,Patna,Office Supplies,Staplers,3402.2,5,806.73
+68f2d51e-bc2b-4301-bbce-4957a62c421a,2024-12-20,East,Patna,Technology,Laptops,6288.73,5,380.3
+82dc9cd1-28bd-4397-b213-4bc753e311bc,2023-07-04,East,Kolkata,Office Supplies,Paper,5617.3,1,1350.54
+9c50d9d1-a215-400e-91d9-80f43a5d38a0,2025-01-28,South,Chennai,Technology,Laptops,1088.5,7,263.25
+287893d5-5798-45f3-b812-ec56041e1dd3,2024-07-14,South,Chennai,Technology,Phones,6522.64,15,841.34
+7f3e0aa6-d84f-43fb-aade-48a49770d7d3,2024-11-14,East,Bhubaneswar,Office Supplies,Binders,5150.07,4,448.99
+96591991-1266-45f9-86d0-4d65c78d3f35,2024-08-11,North,Lucknow,Office Supplies,Paper,4408.0,6,312.34
+0f18eeaa-93e5-4a36-94a4-a8122f68d368,2024-02-25,East,Bhubaneswar,Technology,Laptops,7652.14,7,1017.81
+0d419490-2a11-4497-861b-317bbe82aead,2024-07-18,West,Pune,Office Supplies,Staplers,8057.86,13,1475.44
+e6ca2fed-950d-4c47-991c-7d8de8d0d20a,2024-12-13,North,Chandigarh,Office Supplies,Paper,2072.98,12,189.09
+623c9d6f-a2b9-4ee4-8abd-f80291bf7bd1,2023-08-16,West,Ahmedabad,Furniture,Tables,5468.35,9,1162.74
+e9f70f09-56d9-41d0-a5c8-258deefc1565,2023-06-03,West,Ahmedabad,Office Supplies,Staplers,1822.16,14,136.85
+9cf3d38b-6f34-4234-a7c9-fa170807fa52,2024-04-28,South,Bangalore,Furniture,Chairs,5624.33,4,775.72
+dce449ad-10c8-4e84-8d25-ee27d185b4b5,2024-06-14,South,Hyderabad,Furniture,Tables,4069.79,1,251.6
+65819751-93fd-4832-9fbf-833f5ba6698f,2023-12-25,West,Ahmedabad,Technology,Printers,9893.18,14,851.38
+35787ddf-88e3-4781-af6d-d60f5fae8af3,2025-02-24,East,Bhubaneswar,Office Supplies,Staplers,8476.95,11,1814.85
+ecd60a85-1a2c-41d3-b1a0-e7937684440e,2025-03-24,South,Bangalore,Technology,Laptops,8099.88,12,975.61
+dac847c3-1414-4d80-b539-afb4f43cb2fa,2023-08-01,South,Hyderabad,Office Supplies,Paper,703.77,15,56.4
+47a1a1ca-5a8a-4b00-aea9-0abcea68bd90,2023-07-31,West,Ahmedabad,Furniture,Chairs,1334.56,3,182.84
+831a1e5e-f1cc-46ec-a57c-03e88f99a9b8,2024-05-29,North,Chandigarh,Office Supplies,Paper,9598.42,5,1464.27
+9d2cf360-bfe4-4d53-8419-47cd270a1192,2024-03-29,East,Patna,Furniture,Chairs,5496.51,6,380.77
+fa77a5f7-1f71-4712-8f12-7575b0c98ec0,2024-01-29,South,Chennai,Furniture,Tables,7757.55,7,416.46
+756d5245-cf2c-4a21-ba20-2b8cc29a9638,2024-07-22,North,Delhi,Furniture,Chairs,8208.31,10,1116.68
+03e8dc3d-fe29-4362-adb0-5f4c06ccbc3e,2025-01-30,West,Mumbai,Office Supplies,Staplers,2642.98,1,315.27
+5b13a36a-a8b6-40c7-9ac4-1d68c8a39cc6,2023-11-29,East,Guwahati,Office Supplies,Binders,4324.04,4,937.06
+1d0b7cd0-d047-4ddf-afd2-2f500850d782,2024-07-08,North,Lucknow,Technology,Laptops,1850.49,4,453.26
+615e3a21-2a50-4d5b-af6e-89878ebc6ba7,2024-11-18,North,Jaipur,Technology,Laptops,6831.92,2,1290.64
+d3c5c71b-005d-443d-b0e8-b3d278aa63f4,2024-08-28,West,Pune,Office Supplies,Paper,2538.11,10,434.28
+decd1a07-08e1-45ce-8e11-a82a7f9893e5,2023-08-17,North,Jaipur,Technology,Phones,3324.18,7,803.96
+b98e96fd-16f5-4dd3-aecd-68f5225097d6,2025-03-30,West,Ahmedabad,Office Supplies,Binders,1783.85,5,363.04
+cde6a8d3-ac5b-484a-825c-72e2bb7c7b51,2024-02-15,East,Guwahati,Furniture,Tables,8687.44,11,1835.29
+b2eb7c58-9fa5-423c-86bf-042d54b5d76b,2024-09-11,North,Jaipur,Furniture,Tables,4084.79,6,319.03
+c4915d68-21e7-4a92-8001-5a4254bd7ded,2024-09-18,West,Ahmedabad,Technology,Laptops,7915.26,7,915.07
+1ad609cb-b87e-4fb6-8b90-e3f377aaf323,2025-01-05,West,Mumbai,Office Supplies,Paper,7875.11,13,919.21
+292b7cf4-bb59-458f-8418-27a540be457e,2023-08-13,North,Chandigarh,Technology,Laptops,7967.2,11,1582.04
+280ac051-6737-400d-9acd-bbb778a4c7ed,2024-07-10,North,Lucknow,Office Supplies,Binders,4831.31,14,897.19
+aaec3320-de99-456d-8d71-c54cec9fb079,2024-09-02,South,Hyderabad,Furniture,Tables,3573.74,6,504.72
+6e09e9fa-fb0a-4530-8f46-23b1aa0b3fda,2024-04-18,East,Patna,Office Supplies,Binders,2395.24,12,556.41
+81c01df6-c80e-4c63-abce-acfb67e880d8,2025-01-13,West,Pune,Furniture,Sofas,6135.89,4,392.49
+db5c33e9-280a-49dc-ad32-747a352ba649,2025-01-09,West,Ahmedabad,Furniture,Sofas,5215.84,11,825.53
+650f4cf9-ff9f-4df7-b1cd-1bb046155205,2024-11-04,East,Patna,Furniture,Chairs,9249.74,3,1205.06
+927799e5-981a-4617-b79e-b13b8a0a1562,2024-01-27,South,Hyderabad,Furniture,Tables,7087.87,4,1729.65
+9bc1e49a-2b17-4159-81a4-3c115b973c5c,2025-04-05,West,Surat,Office Supplies,Paper,7544.84,3,1153.76
+e1a13049-1981-4263-92d0-58bf3d703d64,2025-04-16,West,Surat,Technology,Laptops,1565.62,8,128.79
+a4639c60-34a0-4224-be80-8a353876557f,2023-09-05,East,Guwahati,Furniture,Sofas,3123.55,11,495.65
+b4be8b81-4319-4914-a2be-0d7a5c5192dc,2024-02-26,West,Pune,Technology,Phones,9815.72,14,730.87
+6da33fc3-eb66-4d47-b653-b9e37b1b6f3e,2025-01-09,North,Jaipur,Office Supplies,Paper,8380.38,6,649.67
+c969f26a-a2d0-493b-9c76-149c4a07b142,2024-09-24,South,Kochi,Technology,Laptops,8634.96,14,1875.47
+54a0a4ad-dec6-4d74-af51-bd914903ac1f,2024-08-02,South,Chennai,Office Supplies,Binders,6482.83,8,996.52
+b2c91f4d-6f54-4d07-b43b-88b08b0bdf29,2024-06-28,West,Pune,Technology,Laptops,5070.76,11,462.55
+5d49e1d1-e534-41d5-bda6-93f4371b7a0b,2023-09-20,South,Kochi,Furniture,Chairs,5927.94,7,1113.85
+dfcac138-4b18-435f-bc7b-856aaa801fd0,2023-11-29,South,Kochi,Office Supplies,Paper,4276.84,12,639.06
+71115856-ad91-4873-abcc-4b0001627d78,2023-06-24,South,Bangalore,Furniture,Tables,6921.8,14,1600.12
+c0f6d059-8b01-4b8f-8f44-2b799083f0ef,2024-05-27,North,Lucknow,Office Supplies,Staplers,6591.27,12,960.81
+294a0b68-a2d2-40fa-a623-8c0b37263e7a,2024-01-21,South,Kochi,Technology,Printers,9619.55,14,1151.69
+feadce09-5ca3-4ceb-b649-fa9f84194cd7,2024-07-06,East,Bhubaneswar,Office Supplies,Paper,6060.51,6,1005.01
+62ed9856-a5b4-4649-b6f1-ca6d306c4116,2023-06-11,East,Patna,Technology,Phones,4059.68,5,932.71
+161a1b98-d957-419b-8539-1b4a9d8e4540,2024-09-19,North,Chandigarh,Office Supplies,Paper,6168.97,10,728.11
+0c6a7221-297d-4a90-aff9-b3c546600f18,2024-07-06,East,Guwahati,Technology,Laptops,6616.59,5,1322.58
+da5c630d-aaa6-4939-9886-6c51c6e0c44b,2023-12-06,South,Hyderabad,Technology,Phones,5318.55,12,285.92
+d66a22e6-a290-4bce-b7c3-ba0a89301d73,2025-04-19,South,Bangalore,Technology,Laptops,4924.0,6,402.78
+bc9a553d-7444-4966-8cd3-caaeb56c7e98,2024-05-01,North,Jaipur,Furniture,Sofas,4786.23,2,966.28
+48fc5916-17ba-45fb-9d85-024d76a4b48f,2023-08-21,South,Bangalore,Furniture,Sofas,1311.19,13,311.9
+8312ca30-52c4-45e9-925e-30ab3f7c6c43,2024-02-15,East,Guwahati,Technology,Phones,6583.78,6,1586.75
+d18b8f7a-623f-4f56-be5b-3570cc4e2d8f,2024-03-29,South,Chennai,Office Supplies,Paper,8097.52,12,1441.08
+f1e3920e-163e-46d4-ad00-3dd15c44c84a,2024-10-22,East,Bhubaneswar,Office Supplies,Staplers,7115.85,10,599.78
+7c515b2f-95e6-4794-a5ef-abd9f6d9063b,2024-05-30,South,Bangalore,Furniture,Chairs,864.74,12,181.63
+2c8caa93-5aa3-4240-9007-62aa299c8ed8,2025-03-31,South,Chennai,Office Supplies,Paper,7759.66,3,1741.91
+1278cf4e-242a-4ea0-bac3-bdee3e24a9e3,2023-08-27,North,Chandigarh,Furniture,Chairs,7810.85,12,438.68
+4790acca-531f-49cf-baae-d7e285a770ae,2023-06-13,West,Ahmedabad,Office Supplies,Binders,1590.96,6,168.0
+b45b307d-e649-48d0-9cf1-a815c5afe6c3,2023-08-16,West,Ahmedabad,Office Supplies,Staplers,1748.83,2,423.59
+d8a714f0-09c0-42bb-bafc-a64ca1f01784,2024-08-10,North,Chandigarh,Furniture,Sofas,7176.4,4,485.61
+86e68e7f-8080-4e6c-87bf-5b7c3c4008d8,2024-05-02,East,Patna,Technology,Laptops,9151.81,10,513.35
+e1d3cbfa-b7f3-4111-ba46-f282e05ca0b5,2023-06-28,West,Ahmedabad,Technology,Phones,6993.32,5,898.64
+d00d99ea-e598-4a23-b8e7-6c6dd1286177,2024-02-17,East,Bhubaneswar,Furniture,Sofas,4193.8,6,788.63
+73d3f5d6-836e-438f-9972-087dfd7d15b5,2024-09-09,West,Mumbai,Furniture,Tables,5313.53,3,759.28
+baafdc34-b902-4b5b-9a9b-6164a9ceebd5,2025-01-29,East,Kolkata,Furniture,Chairs,3394.15,3,802.81
+a3dea3ec-d970-4199-8178-a566789d0000,2024-10-17,South,Kochi,Furniture,Tables,8933.75,5,2171.41
+518501e1-de9d-4860-961c-dc5780c9153a,2024-09-11,South,Hyderabad,Technology,Phones,1988.59,1,155.06
+0d17ec9d-0045-4005-af42-b8185928fcba,2025-02-16,South,Kochi,Office Supplies,Binders,5545.22,15,1251.64
+7adb2b17-6cb8-4807-8153-4a8e818a75c6,2025-01-02,West,Pune,Furniture,Tables,2055.35,11,346.68
+c24a2f8e-a9ec-42b4-bb7f-11636d49c8db,2025-02-11,South,Bangalore,Office Supplies,Paper,5636.11,10,579.02
+106ace20-60af-4403-b5fd-412f02224d21,2024-02-12,South,Bangalore,Technology,Phones,1082.37,12,122.52
+b6896bfd-44f1-4819-a54f-b4b428040537,2025-01-11,South,Chennai,Technology,Laptops,4115.7,3,488.87
+223bcb7d-a628-4d1a-916d-89038f87a869,2024-09-26,North,Chandigarh,Technology,Laptops,4284.79,7,219.43
+cd5906fc-800e-4aa3-b640-ee5b36f043fe,2024-09-24,West,Ahmedabad,Office Supplies,Staplers,3648.43,1,755.78
+73c82c77-2505-4415-9f99-43b34056d0b7,2024-10-30,East,Patna,Technology,Phones,5710.79,8,975.24
+c6b6a83f-ede7-48c7-925d-143b9101a615,2023-08-05,East,Kolkata,Office Supplies,Binders,7058.87,15,955.81
+f734f5d9-08a8-4bee-a635-3722883e8638,2024-12-14,West,Mumbai,Furniture,Chairs,6814.49,10,502.23
+29df7184-120e-40ff-9af7-ebeafc5181a2,2024-09-12,North,Chandigarh,Office Supplies,Staplers,8288.01,3,1440.66
+0cf36cc6-adb9-43d5-8e21-f47afb824d90,2023-06-24,South,Hyderabad,Office Supplies,Paper,9456.6,2,499.15
+f3c73434-9132-4dde-a7c7-10c85bb15a4f,2024-01-01,South,Chennai,Technology,Printers,6979.47,7,641.3
+bd3058ac-4554-486e-9604-668cd2232810,2024-08-30,East,Patna,Office Supplies,Paper,7975.65,6,1352.15
+19ca3b9a-16d1-464f-ab32-de0453ad88b9,2023-09-30,North,Jaipur,Office Supplies,Paper,1619.8,6,93.38
+35f7697e-0979-4373-82e9-40dfab1d33b7,2023-06-29,South,Kochi,Office Supplies,Binders,263.75,15,48.33
+5fb448e6-e4d6-4994-8832-ec32729c961a,2024-07-10,South,Hyderabad,Office Supplies,Staplers,9176.87,3,2274.6
+e5c75282-c0e8-4303-bcf4-7eba53059218,2024-10-04,West,Mumbai,Furniture,Sofas,9354.93,14,2071.83
+77be1223-1b4d-4af9-9d38-c029a0ad5438,2024-10-27,North,Delhi,Technology,Phones,4090.07,10,907.43
+c9810143-2689-4fae-bebb-91e00fedf6a0,2025-01-22,East,Patna,Office Supplies,Staplers,5740.16,4,1236.79
+84dab969-2358-4854-b778-4aff2a0df180,2024-12-07,West,Pune,Technology,Phones,1378.85,14,213.0
+41e6e6c4-4baf-4732-9ade-1a30da1aee5d,2024-04-06,North,Delhi,Technology,Laptops,3194.68,3,350.96
+63f84538-2db7-469a-9e19-472624e97cc4,2023-10-16,West,Pune,Technology,Printers,9271.68,5,873.67
+d4ff45cd-2dff-4ca2-b045-29f33a5ed06a,2024-10-10,East,Guwahati,Technology,Phones,6812.45,10,1458.09
+73208976-a3af-4ee4-a38b-dc7f5f290151,2025-05-17,North,Lucknow,Technology,Laptops,6025.21,6,684.58
+c725c72e-9ebf-4ce3-9c4f-63a1bacc111f,2025-02-18,West,Surat,Office Supplies,Staplers,6624.38,1,489.89
+9c0a3b2c-7b0f-4062-8e6c-b1b634413169,2024-06-09,East,Guwahati,Furniture,Chairs,514.49,11,102.0
+7c1bce13-c175-4c3e-9972-c12a6d95ae13,2025-03-22,West,Surat,Furniture,Sofas,6317.71,7,1417.03
+6a651b0d-5eab-44a6-b1d0-30b0781a058e,2023-07-22,East,Bhubaneswar,Furniture,Tables,3110.74,8,375.04
+c75495d4-8825-4347-af17-2a84de04fd01,2024-05-04,South,Hyderabad,Technology,Phones,198.91,2,47.4
+54d5a5dc-f337-49a9-8f5f-11e80c57a62f,2023-10-02,South,Kochi,Furniture,Tables,6663.3,10,456.1
+29dc4c3f-ea06-4fcd-9ab4-2d1897e96d41,2023-11-15,West,Surat,Furniture,Tables,1379.15,4,118.2
+068479fa-e8fb-434f-b542-4f1a7762e396,2024-01-06,North,Jaipur,Office Supplies,Paper,6784.84,4,1210.83
+9fe7f07a-38b5-4824-b7ee-7d77cc47cc7b,2023-07-26,North,Chandigarh,Technology,Phones,3360.64,1,234.95
+34ed99b6-5b63-4115-977c-be4034964e61,2024-12-06,West,Ahmedabad,Technology,Phones,3941.75,13,889.12
+a0e8e29b-0c3e-4e29-ad3e-75f104417f8d,2023-09-18,South,Bangalore,Furniture,Chairs,719.01,13,93.2
+06bbf8b9-9a37-4f65-82fa-6181b7f3ab7b,2024-01-28,East,Kolkata,Office Supplies,Paper,1336.13,9,255.37
+f41080c3-3bbe-49bd-ae9e-79958d768f76,2024-03-15,North,Lucknow,Office Supplies,Paper,3196.95,8,570.11
+b3f9410f-c1d5-40ae-b1c1-91f6e834f3bb,2023-12-20,North,Chandigarh,Furniture,Sofas,4036.11,1,962.4
+691bef6d-8925-4cb0-a44d-e51cc387711a,2024-03-10,West,Ahmedabad,Office Supplies,Binders,7592.19,14,1392.18
+4ae96d17-7e59-4dc3-b48e-b6394e515a8b,2024-08-11,West,Ahmedabad,Furniture,Tables,7937.21,5,918.15
+5c54214d-cdb5-4d8f-8195-6be191ec9c5f,2023-11-28,East,Guwahati,Technology,Printers,2429.43,9,513.68
+055911cf-7fe1-4d5f-bc5f-86799a18a3d5,2023-12-13,North,Delhi,Office Supplies,Binders,1557.81,5,247.31
+dd4a9561-898b-4100-bab7-246ca67c51cc,2025-01-03,North,Delhi,Technology,Laptops,5892.1,5,552.48
+cac14de2-566a-4b7c-b98f-744c8c99c076,2025-05-14,North,Delhi,Technology,Printers,8184.89,9,1977.98
+0a51aa48-51a1-4371-a4bf-cdae38e5d1c9,2023-12-18,North,Delhi,Office Supplies,Paper,7810.5,14,793.74
+53059624-c267-4c3e-bb3e-4c96f96811ee,2023-06-13,West,Mumbai,Technology,Phones,5217.73,15,757.12
+f446a3bd-acd5-412e-9844-6ba039245b64,2023-12-13,South,Chennai,Furniture,Tables,4126.0,6,742.53
+7fc00d07-b178-480e-a138-7246543fea48,2024-08-27,East,Guwahati,Furniture,Chairs,3009.92,4,523.05
+42a8725c-e63c-406b-a630-ccc26a6594c7,2023-12-25,North,Chandigarh,Furniture,Tables,5908.61,5,660.63
+68bd463c-16ac-4427-b46d-7ca7d0972e4e,2024-06-11,North,Lucknow,Office Supplies,Staplers,1397.74,12,210.66
+bef324ae-64c5-4723-979a-8bb30189ea08,2025-01-13,East,Bhubaneswar,Technology,Printers,8090.57,1,1177.82
+350e7aad-8068-4c87-ac38-37298dc33d05,2023-10-28,South,Bangalore,Technology,Printers,2426.05,5,307.08
+2f6d67a5-4a39-481e-af5c-2c81d5bae15c,2025-02-18,North,Chandigarh,Office Supplies,Binders,8242.92,5,1290.73
+9a8c5280-58ac-40ef-acff-7629029aebf2,2024-11-05,West,Pune,Furniture,Chairs,7553.69,2,717.44
+f5a9e23c-dc79-4cf1-8dc7-a1afbcdf6aca,2024-05-24,East,Bhubaneswar,Technology,Phones,4541.02,11,760.76
+d3ef5aff-3423-4235-bfaa-d46a3508e52d,2025-05-25,East,Kolkata,Technology,Laptops,8631.84,13,1021.34
+06034998-414d-411f-961d-2f777d76c1fb,2024-09-05,East,Guwahati,Furniture,Sofas,2466.38,7,583.8
+c66bde51-b07e-4e7f-bf48-9a8d3242abb3,2024-11-20,North,Lucknow,Office Supplies,Binders,5113.69,6,789.96
+e950de65-6201-4dab-948a-845ea6ba36b8,2023-12-27,East,Bhubaneswar,Office Supplies,Paper,3292.06,15,651.74
+0740b9d6-aa13-46ab-b286-c5b66f5cf4f5,2024-05-15,South,Chennai,Technology,Laptops,3739.06,4,223.17
+04f13739-22ef-4044-8be3-5c80e85e05b4,2024-02-09,South,Kochi,Office Supplies,Staplers,1306.29,8,114.75
+a1793bb6-9118-44c4-a3dc-af81eb3f2b2b,2024-02-06,West,Mumbai,Furniture,Sofas,7141.79,2,716.63
+a1f6d54b-5229-4867-8285-09942d97e99a,2024-05-26,East,Kolkata,Office Supplies,Binders,6944.2,10,1117.34
+83ba2bfe-b976-4825-b250-6b1337bd1090,2023-08-23,East,Kolkata,Technology,Laptops,7051.21,12,1212.05
+f01e3604-94ef-473a-bf3e-36a4706bcd04,2025-04-13,North,Jaipur,Furniture,Sofas,260.04,2,47.71
+03bcf85f-90f8-4716-a48d-7b2e57805a4a,2024-07-15,West,Pune,Office Supplies,Binders,5634.44,11,706.93
+a0ac81d6-bf5b-472b-a831-b38c1e54f1a1,2023-06-05,North,Delhi,Furniture,Tables,1998.39,12,415.51
+6ebd40fb-271f-457e-8718-9b2ab6e2e40b,2025-01-10,North,Jaipur,Technology,Laptops,2565.61,6,635.68
+9e688a55-b6de-480a-a6ca-4f319df91341,2024-06-02,West,Ahmedabad,Office Supplies,Paper,4417.39,7,980.15
+54f72f3c-7e95-4860-ba09-ef9a7bb0030c,2023-07-19,South,Bangalore,Office Supplies,Staplers,9341.03,15,1294.93
+743813db-b6de-40a1-b9cb-1634d43a8a79,2025-03-28,East,Patna,Furniture,Sofas,5569.32,11,573.88
+9339f7b2-acf2-46e0-9bdd-2d74ae7834c8,2024-08-18,South,Kochi,Office Supplies,Binders,9640.97,13,770.27
+b4e53202-34b9-4e0d-afd6-72f142a7ac75,2023-07-27,North,Lucknow,Office Supplies,Paper,3405.2,5,719.17
+8dbc9059-8425-4968-a8c9-cc33d5ad1e42,2024-10-29,West,Surat,Technology,Printers,5080.42,3,596.91
+7edde5d2-f873-4d13-9832-5912935df8a2,2023-05-31,East,Bhubaneswar,Office Supplies,Staplers,8534.43,8,1213.99
+750cb3a4-49dc-4463-8b4d-0e84745348a8,2024-05-20,North,Jaipur,Furniture,Tables,3176.33,7,644.38
+2dbd6ea6-c7cf-4251-9717-aa3eda404bef,2023-11-16,North,Chandigarh,Technology,Laptops,2716.97,10,158.8
+04f8f189-97b4-463b-8dba-6c5c24894325,2023-06-12,West,Mumbai,Technology,Printers,7730.34,14,853.97
+8c172396-45aa-4e66-960f-86c6ea4cd316,2024-04-14,West,Surat,Furniture,Chairs,7941.18,14,1373.85
+232a2902-6fd8-4e77-96c5-077eca5a213e,2025-04-22,West,Pune,Office Supplies,Staplers,588.7,5,123.99
+e637fb0b-5eaa-49e6-95fd-e5c6cf4463f1,2023-09-12,East,Bhubaneswar,Furniture,Tables,8450.97,10,1829.82
+b1b6fefe-3994-4ef1-8e20-ff0908873145,2025-01-14,South,Hyderabad,Furniture,Tables,4024.57,9,466.32
+0a556fc4-e1a8-44eb-b3e9-e70d99a2e77d,2023-12-13,South,Chennai,Furniture,Tables,3992.85,6,200.82
+bf86efd9-0c4f-4fbb-923f-f8a9f77cabf7,2024-08-14,South,Bangalore,Technology,Laptops,1468.52,11,208.42
+90e2c4c1-1c61-4a43-96d5-669b6879e0d2,2023-06-11,West,Surat,Office Supplies,Binders,5003.33,2,1111.89
+dc5d8894-bb43-45ea-843f-62a4230827ce,2024-08-31,West,Pune,Office Supplies,Paper,2163.54,10,129.44
+3ebaca50-fd43-453b-8fd3-aa1342f31e64,2025-03-18,West,Pune,Technology,Laptops,7745.87,4,1581.51
+05c72e5f-e8b3-4e45-bf55-5fbc9750863f,2024-07-26,East,Bhubaneswar,Office Supplies,Paper,1489.57,7,360.64
+fb86e185-c20f-4754-bf6e-6e653ddbe099,2023-10-18,East,Bhubaneswar,Technology,Printers,8109.07,3,1462.98
+fbf71e4a-d810-4b51-850c-7dfa849c1a08,2025-05-28,West,Mumbai,Furniture,Sofas,3627.89,15,472.33
+f6674cfe-9401-47a3-b4f4-aad29273e21b,2023-12-21,North,Chandigarh,Office Supplies,Paper,1087.97,7,118.7
+4c1d1202-4d41-4ee2-92d2-454dae0cdd00,2024-09-01,East,Guwahati,Office Supplies,Binders,1255.57,14,257.71
+e2bd5d09-bf0c-4434-951b-00b539d4edcd,2023-09-21,South,Bangalore,Furniture,Sofas,3760.96,14,498.95
+73c6e09c-e6d3-45ee-86b1-855cb55fc233,2023-10-24,West,Surat,Technology,Phones,7145.53,12,1026.54
+9e95c920-9863-4d3c-ac86-27057ec057dd,2023-06-10,West,Pune,Office Supplies,Staplers,3739.81,12,734.14
+3d5a41ad-7c9c-45c0-9d59-68daa070e5fa,2024-03-21,West,Ahmedabad,Office Supplies,Staplers,9194.95,3,1173.21
+8697ab4c-7067-4b02-94f5-0379c13cd5f3,2024-01-04,South,Hyderabad,Furniture,Tables,9833.14,13,510.58
+299233f0-0868-425b-b961-e54155dc53e0,2024-02-04,East,Guwahati,Office Supplies,Paper,3981.01,15,841.28
+938b1120-276a-4422-8c8d-de774c92143f,2024-01-04,North,Chandigarh,Technology,Printers,5381.49,7,761.84
+13ecdb46-b76a-4223-979d-948642686df5,2023-08-13,West,Pune,Furniture,Chairs,113.19,1,15.97
+36f6643a-367c-4c26-97c3-8a191bbf09f2,2024-02-08,South,Hyderabad,Furniture,Sofas,6589.66,12,337.65
+964bbb92-5d34-4859-9960-2fcbff57b387,2024-08-14,East,Bhubaneswar,Furniture,Tables,2540.32,10,226.57
+dd04efd2-d57b-40d4-bd75-a6365e36060e,2024-03-16,South,Chennai,Technology,Phones,6957.7,13,1397.31
+c820e87c-66b9-42f2-a358-d3bd36bc5e46,2025-03-07,West,Ahmedabad,Technology,Printers,4768.8,7,756.88
+314823bc-c9f6-4c59-9280-30c062e9ed9e,2023-07-06,North,Jaipur,Technology,Laptops,5072.85,8,1171.69
+013b6921-3917-4f9f-a2b2-49b263879d9a,2024-02-17,West,Ahmedabad,Technology,Laptops,5521.21,11,1121.37
+0e868cc8-10ab-4078-a584-7781b02ad8a1,2024-10-15,North,Lucknow,Furniture,Chairs,5941.88,8,829.52
+1150a135-6861-43bf-8d71-cc02ec655532,2024-07-03,South,Hyderabad,Furniture,Sofas,5020.39,14,815.58
+3c35a7ac-4bf1-4110-8b69-bccda253ba7e,2024-04-12,South,Bangalore,Technology,Laptops,241.87,1,45.35
+2341d8cb-1aed-4792-a25f-a01bed32dca3,2024-03-22,East,Bhubaneswar,Technology,Laptops,7570.46,7,1395.26
+c1060279-3fb7-4c9d-be8b-aa62a8883905,2023-08-29,South,Bangalore,Technology,Laptops,2942.83,13,463.34
+8bcede9b-9e31-4cf3-8e1b-47b8e3de6fa0,2024-11-11,North,Lucknow,Office Supplies,Paper,6757.8,5,1664.42
+e3bec957-e9e7-445f-8b14-e42864d415f5,2025-05-15,South,Chennai,Office Supplies,Staplers,1974.3,6,248.35
+6b047441-951d-4a99-9466-5433d2466ee4,2025-03-01,West,Mumbai,Furniture,Chairs,6191.45,14,910.04
+c5ba939a-e1bd-4392-b1ca-520404dcccfc,2024-12-21,West,Mumbai,Furniture,Tables,5138.06,4,978.02
+07194699-b5b8-48fb-b0cb-9faddf506d73,2024-03-22,North,Chandigarh,Office Supplies,Binders,8451.87,9,1125.65
+e0b0bdc2-8830-4426-a0c1-2a289f9b212c,2025-05-10,South,Bangalore,Technology,Laptops,2842.92,2,161.24
+8454b86e-f7e2-4f8d-a15b-7da3584b83f0,2024-08-21,South,Bangalore,Furniture,Sofas,2122.09,2,527.61
+60141f3c-f504-4d06-ad27-34d332806d6b,2024-04-20,West,Ahmedabad,Furniture,Tables,9886.19,4,1187.86
+b87ba8b6-ad2e-469d-aaf0-177182595bc1,2024-08-22,North,Jaipur,Office Supplies,Paper,3418.34,8,717.03
+2fb6460f-c840-4678-b6e8-ece7067d5e22,2024-01-15,West,Ahmedabad,Office Supplies,Binders,4540.13,14,1007.24
+a55ffcec-bfea-4924-92a3-4e95b85d050b,2024-01-21,South,Hyderabad,Office Supplies,Staplers,2847.12,12,507.72
+3d41047e-62e5-4c58-9c34-9850f3fc543f,2025-03-17,South,Bangalore,Furniture,Sofas,9609.74,4,725.75
+bdf178b5-7a50-4db1-a097-23def783359b,2025-04-07,East,Bhubaneswar,Office Supplies,Binders,9233.6,8,517.78
+7724e6be-3a4b-483b-ac10-77c3a05fa673,2023-07-29,East,Guwahati,Furniture,Chairs,3119.28,1,604.17
+6ed5458f-73cf-49f7-bc18-251d20e61d49,2024-08-04,South,Hyderabad,Technology,Laptops,7787.21,15,708.92
+5df1db43-4415-4a98-86ea-358a4c34b8c2,2025-01-18,East,Guwahati,Furniture,Chairs,3476.88,8,284.44
+0024c92c-8ba5-4048-afb9-a935715497e2,2025-03-28,East,Patna,Furniture,Tables,3077.34,9,291.4
+f3a02590-50ac-47ff-8862-8954a137317b,2023-10-24,North,Chandigarh,Office Supplies,Paper,7583.32,15,480.88
+ec53c3c7-3e44-4c4a-9ad3-915f6dd522da,2025-05-16,North,Jaipur,Office Supplies,Staplers,3294.39,8,186.75
+03fd8367-1082-4905-bb5b-1e992dc8edf3,2024-06-28,South,Chennai,Furniture,Tables,6270.78,9,834.89
+a2fc1d94-25c1-40d7-b837-0ad1e3f54626,2025-04-08,West,Surat,Office Supplies,Paper,9202.82,12,1066.23
+8f88de09-e00f-44c6-b430-b70fc20a310f,2025-03-26,East,Guwahati,Office Supplies,Paper,6445.38,7,1517.01
+ddf4f03a-edaf-40ed-aaa6-ebfca82bf959,2023-06-27,North,Chandigarh,Office Supplies,Binders,451.18,6,76.17
+2d54fb48-a2f6-4439-b9dd-3aca5f1fac50,2024-10-26,South,Chennai,Office Supplies,Binders,1432.66,6,277.2
+72247ff3-ff96-4e9c-bd14-12b5908f1bd6,2024-12-21,West,Surat,Technology,Printers,9331.22,10,1202.29
+52772df0-9537-4ec7-87b7-1218e5dbf564,2023-11-29,South,Bangalore,Technology,Laptops,8859.98,5,2080.8
+c734bcc1-f304-4d33-9bd5-c6e3fb6c87b5,2023-08-09,North,Jaipur,Technology,Printers,3708.73,11,360.34
+31114295-3390-4873-ac3f-98ec66bbbc98,2023-12-01,South,Kochi,Office Supplies,Paper,4816.67,5,589.58
+864a7da6-2ef9-4cf5-adbd-508fd9d04ab8,2024-03-07,North,Jaipur,Office Supplies,Staplers,1258.95,1,176.83
+4254037f-6ed8-494f-ab68-7079ffee9309,2023-07-13,West,Ahmedabad,Technology,Printers,7778.47,2,564.53
+082ae72e-e6e2-4974-baa8-04124074897c,2023-09-25,East,Guwahati,Technology,Laptops,5574.15,15,460.81
+7eee35c9-80b2-48de-b8ed-a66ab95a08b8,2024-10-16,West,Pune,Office Supplies,Staplers,438.87,10,98.51
+fb258e9b-9a74-4964-801e-cdb78f8c96b9,2025-01-05,West,Surat,Office Supplies,Staplers,8781.58,5,2078.12
+a741321f-4a3f-4783-a22b-1b29ab6d88f9,2023-07-22,West,Surat,Technology,Printers,8144.66,12,1574.04
+8c556b8f-ae4f-47b7-ab6f-0ea66ebd59c6,2025-05-11,West,Pune,Furniture,Chairs,2465.73,6,382.59
+786ac89e-c864-4761-a1f4-5aa0f80fd07d,2023-07-28,East,Guwahati,Technology,Phones,4454.94,6,697.69
+eebac0a4-277f-42ed-82bc-ea3c6153340f,2024-01-01,North,Chandigarh,Furniture,Tables,9479.97,9,1763.59
+c48461cb-3cae-4934-82cc-a146c1444f91,2024-03-16,East,Bhubaneswar,Office Supplies,Staplers,8051.67,9,673.37
+3053df62-fd4d-4b09-b9e1-2a941f9fabfc,2025-05-04,South,Kochi,Furniture,Tables,8466.72,8,2085.96
+d051b4e0-e691-4b03-9a44-2c33f708a1b7,2024-05-28,South,Hyderabad,Office Supplies,Paper,4280.83,11,374.02
+4d667e0d-a01e-4775-ab32-b6738077817a,2023-08-13,East,Guwahati,Technology,Phones,2456.82,4,573.65
+d71fbccb-1c14-4c43-aa98-2ca9f9a35b39,2023-11-15,South,Chennai,Furniture,Chairs,7021.52,14,692.63
+9862ad0b-a101-45d6-a470-a006d6d073f5,2024-02-23,South,Hyderabad,Office Supplies,Staplers,9887.2,9,1500.17
+af0a245c-8c0f-47e4-a03c-5dace6b349de,2024-05-11,West,Pune,Office Supplies,Staplers,831.06,11,186.5
+9c883e47-c6ad-4fee-b9d1-e70f1e144da3,2025-04-21,West,Ahmedabad,Technology,Printers,5454.33,5,566.89
+caf7b44b-b4f5-41bb-9536-c442d753a12c,2023-10-16,North,Delhi,Office Supplies,Binders,7066.94,4,1199.07
+c3478b18-50ea-450a-acd6-71c8f850d0d2,2024-02-25,West,Pune,Furniture,Chairs,9859.26,11,602.26
+4be4f1c6-948a-47a2-8c37-035294de1885,2024-05-30,North,Chandigarh,Office Supplies,Staplers,2949.87,15,186.13
+7ba42088-c633-4235-834c-04d306fc5e42,2024-12-07,North,Delhi,Furniture,Sofas,4507.32,5,655.06
+f82b2eea-d649-4bf9-92cd-f4bd41040664,2023-07-25,West,Mumbai,Technology,Printers,2567.63,15,424.23
+69db78e1-2816-4ae9-9540-ba0ce6463505,2023-10-26,North,Delhi,Technology,Laptops,1335.87,12,301.87
+928da14a-8ba8-47c5-9cac-269e09f06305,2023-12-31,North,Lucknow,Office Supplies,Staplers,4761.14,9,374.41
+82779621-761e-4e3e-a015-02d675bc0e3f,2025-01-26,North,Jaipur,Office Supplies,Staplers,7254.78,8,494.12
+418d430e-4590-4719-908d-ee014585b66d,2023-08-17,West,Surat,Furniture,Chairs,6511.27,6,1097.86
+296ff51c-7fa8-473b-b5d6-025c7bad6742,2024-04-05,South,Bangalore,Furniture,Sofas,1325.13,6,167.52
+7d18db03-4da4-490a-891c-e3eca93f68d9,2024-09-06,North,Jaipur,Technology,Phones,7221.53,11,1330.4
+c95f294d-329f-40b5-84c4-789f6f1d2366,2025-04-24,South,Kochi,Furniture,Chairs,8199.25,4,1022.16
+dd1fed0c-bd28-4913-9d5d-db32e916767f,2024-06-27,East,Bhubaneswar,Office Supplies,Staplers,6944.83,7,1594.06
+1b043476-2b24-4fba-a202-edfa08e74bea,2025-01-03,South,Hyderabad,Technology,Phones,4132.67,2,545.32
+c369556b-924e-458f-b125-59b27d3a118d,2025-05-18,South,Hyderabad,Office Supplies,Staplers,5524.28,7,1080.37
+2301268a-2e2a-412e-9119-38957f318aef,2023-10-29,West,Mumbai,Office Supplies,Staplers,3126.61,15,334.2
+9b4f5840-c423-4632-a7a3-e7bb06dfd3c2,2025-02-12,South,Bangalore,Office Supplies,Staplers,6569.05,15,387.87
+975d50b8-3c52-4467-abcd-9128d92c8f37,2025-04-03,South,Hyderabad,Office Supplies,Binders,4806.88,9,1108.36
+0b25aa85-cbd3-4cfa-aa87-022042919ef2,2024-08-19,West,Surat,Office Supplies,Paper,849.88,5,91.73
+269884a8-f39d-4555-bd7d-180a92512983,2024-02-06,West,Mumbai,Furniture,Chairs,6491.65,3,420.15
+6d78a11d-26aa-416f-a13b-78c1ff4fc9b2,2024-10-08,South,Kochi,Office Supplies,Staplers,6464.4,2,384.55
+a631fb88-2df9-4351-bec9-c48995f9b5de,2024-04-06,West,Ahmedabad,Office Supplies,Paper,9540.77,7,808.52
+c7ce384f-8586-43b0-a110-b2fa6d39deab,2023-11-09,South,Bangalore,Technology,Phones,9260.51,10,1821.16
+6f741646-9870-48c2-a596-eaeafbce7ae9,2024-11-29,North,Chandigarh,Technology,Printers,1028.21,14,204.55
+b56786a9-ce00-4b56-94b5-8c8eb43feb2a,2025-01-28,North,Chandigarh,Furniture,Chairs,5619.74,3,396.12
+7fbfe110-9f9b-4766-8074-5ec6e58a4282,2024-11-29,East,Guwahati,Office Supplies,Binders,1293.59,1,300.83
+d88ea673-76a6-42ef-bcd6-99f6fc0a790a,2023-10-24,East,Guwahati,Furniture,Tables,8227.28,15,1207.62
+cd4394f9-14e7-480e-9704-462c56fb742d,2024-08-04,North,Lucknow,Technology,Phones,7509.09,2,810.22
+87981707-3427-4e07-9f05-41d64b815968,2024-05-29,North,Lucknow,Office Supplies,Staplers,6065.08,1,1274.09
+d9ffef36-77b5-4b6e-9a37-9dbc5e216e52,2023-11-19,West,Surat,Furniture,Tables,6066.56,11,816.63
+55a7474a-593f-4104-bbf7-b3ab2c6712d7,2024-06-17,North,Lucknow,Furniture,Chairs,4458.99,2,658.03
+feee69aa-3f2c-40a1-9477-3a5a32923292,2024-10-17,South,Chennai,Furniture,Sofas,3570.51,4,622.71
+f12d403a-f723-4449-ae60-461be3e03704,2023-10-10,East,Guwahati,Technology,Laptops,9608.42,6,1944.39
+6439e3f8-cb02-4095-8d71-55336bd5775f,2024-10-31,North,Lucknow,Office Supplies,Staplers,1350.34,2,76.12
+a84c4625-5d18-447c-98c8-7dc802b29b90,2023-08-23,North,Lucknow,Technology,Printers,892.86,3,217.95
+8f811b28-254a-4c56-a257-a23ef3d2159a,2025-04-05,West,Ahmedabad,Office Supplies,Staplers,1097.94,8,169.24
+19f870a2-10ed-485e-80f5-82f1af662b25,2025-03-08,South,Hyderabad,Technology,Printers,387.67,1,56.12
+69398823-9601-4437-8f92-064baafe0c91,2025-01-22,West,Pune,Furniture,Tables,1930.88,11,438.3
+c3155e32-5005-4384-b0ad-793cdf9a2997,2024-02-09,West,Ahmedabad,Furniture,Tables,9007.53,3,1657.96
+449185da-f8cf-4171-ab83-3cc0a294ebad,2023-08-22,North,Lucknow,Furniture,Sofas,8418.94,6,1488.74
+73433910-6d4c-4676-8df4-a48f3c56c173,2024-01-28,West,Mumbai,Technology,Printers,3965.26,12,675.7
+43fa0e18-f97b-4200-a7b4-b8f9e69f0696,2025-03-03,East,Kolkata,Furniture,Chairs,7796.68,5,687.17
+a5f34f88-85e5-42d2-b1eb-ae83529a36f3,2023-06-08,South,Bangalore,Technology,Phones,5053.85,11,1019.23
+d09333bd-6d88-4248-acb4-123bbd509b87,2023-09-13,East,Kolkata,Office Supplies,Binders,9847.94,13,1136.86
+ac1a2f74-74db-40a2-8747-7bb35f40490e,2025-03-31,North,Jaipur,Office Supplies,Staplers,4836.21,8,906.83
+ba5b1da7-ab09-45b4-a032-3bd5c61c67d1,2024-07-04,East,Bhubaneswar,Office Supplies,Paper,7311.39,5,1759.5
+32b2878b-4627-4dcc-9e1c-ee4f706ba0db,2024-07-24,West,Ahmedabad,Office Supplies,Paper,1096.8,3,57.23
+ae2a2d5e-9186-49b8-869b-12cb27b7637d,2023-08-16,North,Lucknow,Furniture,Tables,8532.1,8,1756.33
+206d42e6-de98-46e0-8a21-a13ee4774702,2023-06-03,South,Kochi,Technology,Printers,7901.32,3,599.02
+cd8875d1-57d0-41ee-9aad-a57a851220e3,2023-06-12,West,Pune,Technology,Printers,8261.68,12,1439.67
+16adca4f-0d5c-44dc-ba65-7285420285d9,2023-10-31,West,Pune,Office Supplies,Paper,5329.09,7,940.74
+a2e8fffa-1eb4-4069-94f0-6da889533f12,2023-10-17,West,Ahmedabad,Technology,Laptops,6961.83,5,524.99
+db271f2d-4121-4ec7-ac16-740b7c6d58d0,2024-12-22,South,Bangalore,Furniture,Sofas,204.58,9,33.66
+00c12030-135f-47ea-b4c2-deb0199d77bb,2024-05-18,East,Patna,Technology,Phones,5250.69,15,1105.2
+da8d9f39-33be-4d88-9482-24b3f14bc571,2024-04-08,North,Delhi,Office Supplies,Binders,2301.03,3,159.47
+c65a8393-2dc5-44ee-b519-c326610a29b6,2024-02-13,South,Hyderabad,Technology,Phones,5201.56,1,1267.1
+d97acb8a-b1aa-4d7f-8b32-7c348adb25b5,2023-06-24,East,Kolkata,Furniture,Tables,4611.99,15,1027.48
+d2a00e92-b254-4d56-82f3-d1dafb5e218d,2023-09-12,West,Surat,Technology,Phones,5384.74,9,1213.84
+00fa253b-c377-4f82-82cd-cdcefa7909b8,2025-02-03,South,Bangalore,Technology,Phones,1252.36,2,127.23
+f4e3914a-2064-4c29-8c96-eb7500117ca0,2023-10-18,East,Guwahati,Technology,Phones,8848.65,9,1038.59
+87b091f4-2002-4029-b3ae-a0a9c48bf9aa,2024-03-27,West,Ahmedabad,Technology,Laptops,8124.0,2,454.16
+2c9f62a5-16d4-4f6e-bb99-825713ea4a29,2024-12-06,North,Chandigarh,Office Supplies,Binders,1355.8,3,86.18
+ee26a911-3fb0-4d2f-a17e-c57e01879b79,2024-12-05,East,Guwahati,Office Supplies,Staplers,531.63,10,43.59
+d402053e-3fe9-4223-a972-4d56854326cd,2024-04-03,East,Kolkata,Office Supplies,Binders,9430.89,13,2235.05
+f6232287-2910-442a-b3d6-f026c125f6cf,2024-02-24,South,Bangalore,Office Supplies,Staplers,5913.58,11,832.22
+a4ed225b-4e88-413f-b5ab-a4270d83727e,2024-03-10,South,Chennai,Technology,Printers,1899.73,14,386.74
+ef2e4fe6-ad11-4730-ab73-05785e68b2c0,2023-09-24,East,Bhubaneswar,Office Supplies,Paper,2085.16,14,420.24
+1e9ef5a7-8052-4209-9ffd-8a178364ec4e,2024-09-21,South,Kochi,Technology,Phones,7912.24,9,1137.25
+8705a62d-a896-4677-98a0-ce1e2faebb53,2023-08-06,South,Kochi,Furniture,Tables,6657.27,10,1284.66
+5d4d199f-220a-4dc7-a70c-d846c9a18571,2023-07-07,South,Kochi,Furniture,Chairs,3757.44,7,331.12
+140eaa91-5dc6-4717-a7d6-1f0d854d663e,2025-01-14,East,Bhubaneswar,Furniture,Tables,2848.69,7,563.46
+909a69fc-7f66-4bc2-8633-b30bf04b4e09,2023-07-01,South,Kochi,Furniture,Tables,7826.9,13,1147.48
+515047fe-e5b1-4521-a312-25a3f32caddb,2024-05-31,East,Bhubaneswar,Office Supplies,Paper,2567.7,6,130.44
+b40a7068-ffbd-44ba-9993-35ab5a0595e7,2023-11-28,West,Ahmedabad,Office Supplies,Binders,3431.32,12,527.47
+53299306-cdf0-4b36-a94f-dbf18b934b79,2023-12-11,East,Bhubaneswar,Office Supplies,Paper,9693.85,10,2228.4
+358e556a-db00-497f-92cb-b4152b02e2c2,2024-03-17,South,Hyderabad,Furniture,Tables,3345.74,6,607.01
+3295890e-aa54-4197-bdd1-a152c03f61be,2024-12-19,North,Delhi,Furniture,Tables,5650.84,5,608.11
+ecdd3c99-e366-448e-a12e-5f6d57bd6db3,2024-03-05,West,Mumbai,Technology,Laptops,3023.73,1,464.56
+f754ae54-96a1-45a4-8c9e-b9d0c5883f77,2024-06-15,North,Jaipur,Office Supplies,Staplers,6405.67,10,1449.12
+30b0d90f-2cdc-4784-8ef8-7af35b85d5d2,2024-01-09,North,Lucknow,Furniture,Tables,9639.23,1,910.88
+8838512f-7afa-4b36-97fe-0c3fe089c71a,2023-10-12,North,Delhi,Furniture,Sofas,2203.88,8,531.69
+5a33bf8b-d708-4038-bbbc-9b8616ddd402,2025-03-08,South,Bangalore,Technology,Laptops,910.9,6,167.16
+4fd8e23f-7695-4499-839c-7f780b1302f1,2024-10-16,East,Kolkata,Furniture,Sofas,5760.51,1,1210.32
+7d69dca1-7715-43c9-8cc9-7df1a28e7182,2024-08-12,South,Chennai,Furniture,Sofas,2710.76,8,558.65
+a60c453b-5085-4fb9-ad5e-9257e66a04e8,2024-04-27,West,Surat,Office Supplies,Paper,505.87,1,49.3
+310ca0f0-d60c-4198-bfdf-3b1e76931e0b,2025-05-05,West,Ahmedabad,Office Supplies,Staplers,9383.34,14,623.22
+fbeed4cf-094c-4ecf-913d-b282e3fe1a78,2024-11-15,North,Chandigarh,Technology,Laptops,2433.66,12,133.12
+654a2229-cf32-4665-bff4-388280517e35,2025-01-12,North,Lucknow,Technology,Phones,4319.99,2,768.39
+50c18063-dbf7-486c-8f8b-bc1c74a374a5,2024-09-18,South,Kochi,Technology,Laptops,8853.11,2,1839.0
+ce15f108-5e4c-4b41-aa74-943f579a742e,2025-02-27,South,Kochi,Technology,Printers,6385.4,3,928.56
+142c66b6-f29e-4cfa-8496-e753d2c96e9d,2024-01-02,West,Pune,Office Supplies,Staplers,9275.8,6,827.38
+188b6dd3-f837-42a4-b56b-eddb7443dc48,2025-01-25,East,Guwahati,Furniture,Chairs,1148.88,15,91.06
+f74ad18f-e34e-4d6e-a238-b26fd97feedd,2023-12-10,South,Bangalore,Furniture,Tables,3975.77,2,341.01
+cde145cd-6d81-4ce1-b051-a499b23b7d90,2023-11-27,West,Mumbai,Furniture,Sofas,8328.28,8,1079.48
+e37cd397-35ce-4ae5-8133-72ac936a8b45,2024-12-05,North,Delhi,Technology,Phones,6305.85,6,1402.89
+61210009-2798-4b90-9d25-a79379646bff,2024-02-25,North,Chandigarh,Office Supplies,Staplers,9686.29,11,1808.98
+d2026f73-904f-44aa-a362-6401b8313382,2024-12-02,North,Jaipur,Technology,Printers,4771.34,12,613.57
+2866a314-38a0-4328-b411-ead0795f5571,2025-01-19,North,Jaipur,Furniture,Sofas,8514.24,4,467.8
+de554366-6785-4483-9133-64f60e614742,2023-11-01,West,Surat,Office Supplies,Staplers,3411.24,6,407.9
+227ac5e3-e8b3-4004-9aaa-f20164502b73,2024-04-07,West,Mumbai,Furniture,Sofas,7371.96,2,1284.72
+685aaf3c-dc95-4572-b97e-a5f68dfc29d0,2024-09-07,North,Chandigarh,Furniture,Chairs,4754.89,12,782.79
+6d1d75b2-915a-4068-8c2e-6d99a32457ce,2024-11-08,East,Bhubaneswar,Furniture,Chairs,1500.57,9,338.51
+1909c9f4-d559-4816-a2e6-fd6462b0ae6e,2024-03-25,East,Kolkata,Office Supplies,Staplers,2957.87,12,580.86
+27edc0bd-05ba-4ffc-a3c5-cc0e3fbacb97,2024-05-11,South,Kochi,Office Supplies,Binders,5677.54,5,1185.92
+0f825c27-c780-4b36-81a7-be97c996e1cf,2025-05-03,North,Jaipur,Office Supplies,Staplers,8009.36,15,1373.09
+6d465e91-1cb7-4889-b024-a7c5fc29badc,2023-06-13,East,Patna,Furniture,Tables,8915.55,2,643.32
+9428be60-ce9a-4815-86fc-c9e48cf183ac,2023-12-30,West,Ahmedabad,Technology,Phones,5197.76,11,1164.1
+ec58346b-6485-409d-a8a7-d2f0ed353581,2023-10-12,East,Patna,Furniture,Tables,8805.99,1,1921.15
+f5de8c84-483c-48a4-8a37-d057fe560da3,2024-01-29,West,Ahmedabad,Technology,Phones,7138.64,10,1118.59
+57bd8ee8-0615-4d9d-957b-757afcbca706,2025-01-22,North,Delhi,Technology,Laptops,2337.13,12,207.91
+7f2ec615-601e-4119-b783-afb3de695767,2024-05-20,South,Chennai,Technology,Laptops,9094.45,10,1854.6
+f05012de-ffa4-44dd-b216-ea4c2d685c75,2024-12-06,West,Mumbai,Furniture,Sofas,2853.47,12,589.13
+54b90e3b-3771-4faf-86a2-aad5ade4ca03,2024-01-01,West,Ahmedabad,Furniture,Tables,846.69,5,194.04
+13917f50-7f45-4cf2-896d-7085e72d3bf1,2023-09-15,North,Lucknow,Technology,Phones,4123.2,1,522.17
+09d179d0-e8af-49ab-8ed4-f546330f92f0,2024-05-01,North,Delhi,Office Supplies,Staplers,562.56,11,134.07
+b31432bd-3fbc-414c-9c60-2c8fa8b8dd16,2024-03-22,South,Hyderabad,Office Supplies,Paper,8784.9,11,1951.45
+d387ecc2-4039-4e6a-b396-0ecc7e84976d,2024-05-17,North,Jaipur,Technology,Phones,3377.11,7,775.48
+98384165-625f-492f-b69d-ca24e20d6ff3,2024-01-16,South,Hyderabad,Office Supplies,Staplers,4184.4,13,495.37
+2b07c15d-6927-42b9-b1cf-193c4710d639,2024-12-02,South,Hyderabad,Office Supplies,Paper,7115.4,6,1174.74
+f2154c40-b56e-46b0-8d96-4acd30c9debb,2024-09-20,East,Guwahati,Furniture,Sofas,8608.86,11,1976.92
+640a2417-9c89-4d62-ab78-e4ff21a38c1e,2024-08-02,West,Pune,Office Supplies,Staplers,1902.47,7,97.44
+42c3fd2f-908e-44af-ae75-e9a19069cbf4,2023-12-05,West,Mumbai,Furniture,Tables,1946.07,8,141.65
+5fa5d98e-182a-4add-bb9f-5bf81e20efc1,2023-09-26,East,Bhubaneswar,Office Supplies,Staplers,7435.8,2,1824.8
+64818b2d-3eb4-4150-93bc-30ad927cde9c,2024-02-09,West,Ahmedabad,Furniture,Chairs,4259.18,15,963.86
+ab013e96-22bf-4a33-a13d-dcb800511f5e,2024-12-27,North,Delhi,Office Supplies,Paper,8214.94,10,1832.36
+96de7ea2-606b-4b63-a712-04f33c697471,2023-12-18,East,Patna,Furniture,Chairs,2745.96,8,647.23
+c4b9ab8a-2a06-4245-8698-aa1fa35cfff6,2024-05-10,South,Chennai,Technology,Phones,308.7,10,45.49
+820d9e85-9ac9-4632-b884-1d55f66ebb3e,2025-04-04,South,Hyderabad,Technology,Laptops,3430.07,5,841.45
+80c924c2-109e-4b2b-9ed9-46000a199da8,2024-03-01,West,Pune,Office Supplies,Binders,2138.99,2,256.05
+746750df-9814-4a02-9dd5-96d5e82ff127,2024-01-16,South,Kochi,Office Supplies,Binders,5961.96,12,942.49
+5a648478-14a1-455d-8861-bccfcd0c174a,2024-11-16,West,Pune,Office Supplies,Binders,4176.03,14,569.95
+41e8cc8a-3a5f-46ff-b78a-ac7111ead441,2025-03-29,North,Chandigarh,Office Supplies,Binders,3494.37,1,737.69
+6c58e38d-f290-44dc-9f2c-005aa76b38b8,2024-02-20,West,Pune,Technology,Phones,9057.54,13,898.49
+369c0b2f-1ee3-4654-8f02-1a37f6880ca0,2024-08-01,East,Kolkata,Furniture,Chairs,3404.33,6,356.3
+0228b6dd-d386-4b8a-b887-e8b4e87ee5ed,2024-05-18,East,Patna,Office Supplies,Binders,9502.76,9,1564.37
+9b32c471-909d-4262-becb-20ce766ec165,2024-10-06,East,Kolkata,Office Supplies,Staplers,4487.02,12,890.12
+7d0d8b81-36c5-4b3a-9d21-63e33b711867,2024-10-08,North,Chandigarh,Technology,Phones,3751.08,6,601.63
+44b62a48-9529-48cc-a308-abc9bf536188,2023-12-19,East,Bhubaneswar,Technology,Laptops,3872.45,3,592.46
+fb2068d6-7223-4239-8145-8f1b9de310e5,2024-09-08,North,Lucknow,Office Supplies,Binders,1221.89,13,246.81
+0ed028c6-f8e7-4ca8-9df9-5d8b16c7a6b6,2024-11-19,North,Chandigarh,Furniture,Chairs,908.56,13,92.67
+faeb4188-02d0-416c-a793-7e9f00852d9a,2025-01-15,East,Bhubaneswar,Technology,Laptops,6622.92,14,924.96
+cb09d6ef-66df-45ce-acc7-80b8dbe59911,2025-01-04,North,Jaipur,Technology,Phones,5182.34,5,1032.91
+e6fbe01d-54e0-450d-8eb3-5bf8d02b80f6,2024-07-28,West,Ahmedabad,Technology,Phones,922.91,2,63.11
+f2405fb6-eecc-4cc5-9a32-fe09696d0287,2023-10-05,West,Pune,Technology,Printers,1405.7,1,145.22
+84168aee-4939-4bc4-aa80-5b886152df76,2025-03-30,West,Pune,Furniture,Tables,1505.61,5,282.59
+2a1da035-78c9-42f5-8cdf-c9243050c147,2024-05-21,South,Bangalore,Technology,Laptops,7245.68,6,1538.1
+48b15bfa-338a-436b-9c39-e9f9a3d1c25b,2024-11-27,South,Kochi,Furniture,Tables,1640.3,12,100.15
+2890035f-4858-4e9d-b814-b341bbf9fa98,2024-10-24,West,Ahmedabad,Furniture,Tables,6529.99,8,869.54
+b1af125a-23ef-4f9c-8573-bec19af2195e,2024-06-08,West,Pune,Technology,Printers,8010.2,9,906.53
+9b131e1b-d5e9-4e68-afc8-ffb435ab9e0f,2023-11-13,East,Patna,Technology,Laptops,6906.49,4,980.79
+8eb9c184-aa13-4dc2-80e1-1529eaa68530,2024-05-06,South,Kochi,Technology,Laptops,7921.46,13,1085.12
+7030388d-a6ae-413c-a087-d4e7d72642a8,2023-12-13,East,Patna,Office Supplies,Staplers,1921.83,9,223.78
+1387bd15-c2d8-432c-a382-22432b0ead22,2025-04-07,East,Kolkata,Office Supplies,Staplers,2242.48,11,519.58
+dd27b016-53a4-4508-abb7-5f8a2c3a8531,2024-10-21,West,Pune,Technology,Laptops,5528.31,12,438.6
+57a0d824-30da-4ae7-8670-f9b46fb382cb,2023-11-07,South,Bangalore,Technology,Phones,2328.29,7,202.45
+62b5b73c-5feb-4e78-a883-2433f75d1657,2023-11-14,North,Jaipur,Office Supplies,Staplers,492.4,5,118.75
+77e8d5b2-f427-4b67-b17b-4f606680a7a1,2024-09-10,South,Hyderabad,Technology,Laptops,9207.8,3,516.77
+0bc17d39-14ea-40b6-9664-72acc37f78b7,2024-12-02,South,Chennai,Technology,Laptops,9687.89,9,1397.63
+c9699153-f41a-405e-8208-f6f893dd8edf,2024-06-27,South,Kochi,Technology,Laptops,7587.46,6,532.12
+240a068f-f957-4b88-b71b-d745395cce12,2024-12-05,East,Kolkata,Furniture,Tables,1120.16,13,86.53
+006127a2-3e00-4f44-96d5-a9e1f0a06a4b,2023-11-22,South,Hyderabad,Technology,Laptops,542.08,11,67.3
+83cee89d-7900-4899-a079-d38b66ab5192,2024-12-22,North,Lucknow,Office Supplies,Staplers,7040.37,6,901.33
+b5bf3ac8-11e5-43ed-8e6c-062131eb963a,2024-05-05,South,Kochi,Technology,Printers,2016.6,8,462.21
+abff48c6-fd49-4efe-95ea-4552ab78aa88,2024-08-24,North,Lucknow,Technology,Phones,3300.94,10,417.67
+c3819194-0a45-4439-a8ad-4ebb273a319f,2025-04-29,North,Jaipur,Furniture,Chairs,5278.5,7,1210.61
+4479b59e-3aa0-44ef-98c5-8f1c44d12d11,2024-05-17,West,Mumbai,Technology,Laptops,6187.7,13,1002.95
+8ae5921f-5dd1-4b81-912e-32e63a53bcbb,2024-02-26,South,Kochi,Technology,Laptops,6404.47,8,642.37
+f95715d1-55a3-4d31-b5fe-cbd4de230064,2024-05-26,North,Delhi,Furniture,Tables,3464.92,10,833.89
+152debd9-43a6-4c4f-aae5-6932c95cf629,2023-12-11,East,Patna,Technology,Phones,1544.08,6,184.58
+f58e9d6f-2b94-4ba5-9826-0a6f43e4048c,2024-06-26,East,Patna,Technology,Phones,6359.9,9,557.96
+44f31fc3-bbd1-4070-93a0-e2e3d7b919e4,2024-09-07,North,Jaipur,Technology,Printers,9912.58,7,1904.13
+c21c940b-206b-4792-835f-7d75db715496,2024-04-16,West,Mumbai,Office Supplies,Paper,2684.79,7,238.07
+b3f574c5-0524-48a1-b794-d56e5b3f4c88,2024-01-30,South,Bangalore,Office Supplies,Binders,1628.22,13,272.87
+24d3f52a-0030-419e-9d96-078bcc5c05e9,2024-09-01,East,Patna,Technology,Laptops,2534.48,13,524.28
+e4e3a662-0bdc-457c-b358-4ea7407e63c8,2024-02-01,East,Patna,Technology,Printers,5795.06,11,315.36
+3abc3890-641d-400f-ae76-58d636d8563e,2024-12-02,North,Chandigarh,Office Supplies,Staplers,1990.94,3,124.46
+0a458d49-e6e8-4ef1-94f8-1ce9b31fecfe,2024-05-21,West,Mumbai,Technology,Phones,2001.03,15,153.39
+ababad81-9098-4c28-a906-503aaed98964,2024-08-29,East,Kolkata,Office Supplies,Staplers,7038.34,2,1133.76
+5bdf6652-d6f9-4d23-a07a-fd63c4f4d617,2024-11-22,East,Patna,Office Supplies,Paper,283.49,4,36.92
+4f761abd-404c-487a-8787-2ace51f48b2e,2024-04-07,South,Hyderabad,Office Supplies,Paper,2872.16,11,475.21
+c199829b-8df9-40c8-a9b0-2f58cb388409,2024-11-14,West,Surat,Technology,Laptops,2016.91,12,374.8
+2f2d5f87-a05f-4166-a52f-a09f977cb749,2023-09-16,North,Chandigarh,Furniture,Tables,1537.42,3,242.62
+ac888e2d-a22b-4fa8-8740-b95cce9fe77d,2024-08-20,North,Jaipur,Office Supplies,Paper,6905.28,1,1269.08
+d636dd74-78b2-4386-b4d1-fb6a373f7773,2024-01-04,North,Delhi,Furniture,Tables,3607.53,13,766.85
+6126b050-c83a-4f41-af67-2e9429eb7d24,2023-07-20,West,Pune,Office Supplies,Paper,5537.65,13,1026.56
+3903958d-e87a-4626-a437-c6b2716566a0,2023-06-19,South,Bangalore,Technology,Printers,9411.7,15,2247.62
+fcc3265f-ddc4-44ad-9125-d7f97b5d160c,2024-02-25,South,Bangalore,Technology,Laptops,4292.28,9,878.72
+a575b4e0-206c-48b0-83e7-90a438d665d2,2024-08-17,North,Chandigarh,Office Supplies,Paper,7722.27,14,921.65
+cfdff7d6-9699-4dd0-bf47-a15bc8ec23aa,2024-04-17,North,Lucknow,Office Supplies,Paper,5728.7,13,1175.58
+94e445c3-486f-494a-a553-1a47cf5f986c,2025-02-09,South,Bangalore,Office Supplies,Binders,5574.89,15,1116.0
+606fde1c-a4c7-48df-b1d6-29e8bf1def42,2024-07-23,West,Ahmedabad,Office Supplies,Staplers,4365.53,11,267.02
+bd13e9c6-e5cb-4a19-9b85-6d946010031c,2024-09-02,West,Surat,Technology,Phones,3027.15,14,596.88
+13fd6ce4-e7b4-4ac8-95af-b8b2576a578d,2025-02-21,South,Hyderabad,Office Supplies,Binders,342.47,5,40.04
+510ae759-05ae-4efc-9e14-39a7cf74bf56,2024-07-02,North,Delhi,Technology,Phones,936.13,11,113.09
+94a571b2-97cb-4124-b76a-fb930cc516b4,2024-09-16,North,Chandigarh,Furniture,Sofas,2577.77,14,561.06
+7b54bb30-5ead-4493-99fc-28ae4ed659c9,2025-01-01,East,Guwahati,Office Supplies,Binders,9654.22,13,865.21
+e23dc272-0cf4-4613-839f-3f689c817923,2023-09-15,West,Pune,Furniture,Sofas,6896.24,3,710.15
+e3feca59-e250-444a-a387-2ebc2738364b,2024-04-10,West,Mumbai,Technology,Phones,4362.61,4,329.01
+c33ac09b-96ed-47a5-8b32-1c43867bf1f3,2024-06-10,North,Jaipur,Office Supplies,Binders,5878.36,13,808.17
+5d603483-bc44-4b1f-b6b9-2fccac20d939,2023-08-15,North,Delhi,Technology,Phones,689.31,14,110.0
+e160b7b5-0ddf-40a0-b9c9-50b3676b064c,2023-08-07,North,Delhi,Technology,Laptops,9002.09,9,1787.46
+8cb1ce40-78e0-4c8e-aab4-58c893782755,2024-10-01,East,Guwahati,Furniture,Chairs,4122.58,14,611.77
+4f8d23a3-4540-43d4-bd4a-d282d34f19d7,2023-06-18,West,Mumbai,Office Supplies,Paper,5343.91,14,420.31
+4775dc9d-8574-4b6a-b6ec-3fa1f040cfa8,2023-06-28,North,Delhi,Office Supplies,Binders,9130.48,8,1156.97
+c8065a34-7bbf-4915-9261-b9cf6413023d,2024-11-08,North,Jaipur,Office Supplies,Binders,1634.38,8,91.71
+10f3bd9a-7771-492b-a46c-eb94d907db23,2024-03-21,East,Bhubaneswar,Technology,Printers,3645.78,1,702.67
+cd93bdae-3ae6-4a70-8810-a0021f94a689,2024-12-30,East,Patna,Office Supplies,Paper,3348.18,1,281.73
+be3f9349-cc0b-462d-a6af-1322410e3ed3,2024-12-01,West,Pune,Furniture,Sofas,6230.88,1,437.24
+61d5d15a-9656-4000-874e-7fbce2a4345d,2024-02-25,North,Lucknow,Office Supplies,Paper,8501.13,6,728.83
+a45cd5ac-cd1f-452b-8693-88fea25e71d3,2025-04-02,West,Pune,Office Supplies,Paper,2634.93,9,199.34
+b8aaaf0d-2d1c-4303-a938-27f60f1b5ee9,2023-10-25,North,Jaipur,Furniture,Tables,9957.03,6,738.38
+42d2dceb-d677-4634-8f4d-4b9f3acc3338,2024-10-13,East,Guwahati,Office Supplies,Paper,8695.52,14,778.92
+f0ca872e-c557-4f7f-900f-2b542a187853,2025-05-20,North,Lucknow,Technology,Phones,2504.22,11,272.12
+7f5fcb4b-3519-473a-928e-0aeebecd10a3,2023-09-28,North,Delhi,Furniture,Tables,7004.98,7,1049.38
+7e123245-9a1d-4030-9d8f-f46ebb5a07a1,2025-05-01,West,Mumbai,Office Supplies,Paper,1248.0,8,193.51
+cb1b9fa9-ed6e-4e9c-b9fa-4ba35a9d17f8,2024-09-01,East,Guwahati,Technology,Phones,4666.85,4,625.66
+d128d52e-d294-4cca-9135-f129e19cfde4,2024-02-02,South,Chennai,Furniture,Chairs,5761.42,14,922.28
+4b968e75-6d99-42dc-88be-3317bf5c8017,2023-07-16,North,Chandigarh,Furniture,Chairs,3165.19,5,201.14
+03ef9bb0-c6cd-42d5-b489-4a1d2d19b482,2024-06-21,West,Ahmedabad,Office Supplies,Paper,5212.22,4,1209.51
+70d03f62-c33e-42f6-814c-33faee70ca43,2025-03-10,South,Kochi,Office Supplies,Binders,8009.74,10,486.92
+d0731122-95a1-44b6-a5bb-1537888c7eb2,2023-10-07,North,Lucknow,Technology,Laptops,8835.21,2,1646.24
+45d2b67b-91f5-42b8-bb11-efb2a6c744ee,2024-01-22,West,Surat,Office Supplies,Binders,8700.63,2,1227.08
+27b83a58-d722-4d1f-b607-50b64b59fcfc,2024-05-21,West,Surat,Furniture,Chairs,1913.93,11,180.57
+7637aa20-4738-4321-8517-8848455ea23c,2024-09-29,South,Chennai,Furniture,Sofas,7022.57,11,698.22
+c98e5362-2151-4af1-b20d-bf3677246460,2024-03-10,South,Bangalore,Technology,Phones,3492.7,10,812.68
+b7e2ed51-becb-4100-840d-85a7407f9115,2024-09-15,South,Bangalore,Technology,Printers,4389.0,6,629.27
+38727f7b-3e6e-4549-a7e4-3f6d0cda9fba,2025-01-23,West,Ahmedabad,Furniture,Tables,6517.17,13,655.27
+cc1b7225-9f0a-4a37-aa95-46834bcd1341,2024-12-23,North,Jaipur,Furniture,Chairs,867.37,10,89.39
+13694cfe-bdaa-46c6-8da2-ab816815c823,2025-01-29,West,Pune,Office Supplies,Paper,6683.85,3,577.68
+301ed0b7-ae64-4098-bc52-a98387d319da,2024-11-24,West,Pune,Furniture,Sofas,2989.44,5,344.45
+acc937ee-e6b2-45e5-a604-1fc6967a7492,2023-07-12,West,Pune,Technology,Phones,3411.26,6,449.31
+f8443f1b-66f0-416d-8ed2-8c63215352cc,2025-02-16,North,Lucknow,Technology,Laptops,9794.15,10,2105.58
+a557f974-1efd-4d5c-8090-0f3da46b2a08,2024-10-31,North,Lucknow,Office Supplies,Binders,4935.89,3,913.28
+4cce66fc-431b-4709-80e4-5cc2f60e8382,2024-04-02,East,Guwahati,Technology,Phones,1369.5,5,131.53
+cd39e7dc-b890-40a0-ba06-1b9c02e8e59e,2024-06-28,East,Kolkata,Technology,Phones,5018.81,8,1101.67
+f0b231cd-a493-4cb3-a8f5-c2d7008e3277,2024-03-30,North,Delhi,Furniture,Chairs,3506.5,4,629.38
+a5f5bde4-ab40-4208-8104-8f2ad78054e7,2024-01-31,West,Surat,Technology,Phones,8060.14,7,1382.71
+62067e28-ea89-4f74-8e94-a65d3048aa02,2025-04-01,North,Jaipur,Office Supplies,Staplers,8417.21,9,1605.01
+4187682d-9c9e-4368-8bce-ee51ea1f824c,2024-12-31,North,Lucknow,Office Supplies,Paper,5051.44,8,1057.81
+32cfe8c9-08bd-435d-8908-97dfad5e9b8c,2024-11-27,North,Jaipur,Furniture,Sofas,6554.09,4,1141.41
+595effb8-56cc-4a5b-bee5-d3f174aa5a6f,2025-03-21,West,Ahmedabad,Furniture,Sofas,3204.3,4,639.69
+45300a9e-45bd-48dd-b89b-a3525c87d937,2025-04-20,West,Mumbai,Furniture,Tables,8546.74,3,1691.89
+88a64a24-20cb-4e88-adb7-72c6e3a90298,2025-01-02,South,Hyderabad,Office Supplies,Staplers,6262.73,8,737.28
+9400e132-a6dd-4928-a209-6c34fba77c5c,2023-11-21,North,Jaipur,Office Supplies,Staplers,9380.63,8,1485.7
+77153d4d-1d38-4a9d-808a-5007b48aa510,2024-07-31,West,Mumbai,Furniture,Chairs,5614.07,12,841.12
+30187185-b805-4cd8-8255-2a8ff746aadc,2024-04-06,East,Patna,Technology,Laptops,1611.38,6,185.91
+ec2d9617-657a-4460-a433-91c3cd1f094b,2024-06-14,South,Bangalore,Technology,Phones,4904.96,11,275.98
+1263b364-0db2-428d-a7bb-64f0988e2f32,2025-01-07,East,Kolkata,Office Supplies,Binders,3592.84,14,809.92
+e3c073f8-f7f4-44a6-a1ea-5c7b4d607e74,2023-07-22,West,Pune,Furniture,Tables,929.44,5,208.77
+7379715c-8982-47e6-b948-9a58ff5b431a,2023-06-05,West,Ahmedabad,Office Supplies,Staplers,9500.45,6,1387.03
+fd2a4694-7bfd-4488-9ea7-e34e2bdb3a53,2024-01-30,South,Kochi,Office Supplies,Binders,9851.29,8,1705.2
+b5a0f22b-4741-4d31-8147-94a85a30f22a,2023-08-24,East,Bhubaneswar,Technology,Laptops,7271.33,7,1812.25
+18ea4887-6a5b-440f-a60b-2546f7b9446d,2024-08-06,East,Guwahati,Furniture,Chairs,119.47,12,10.6
+049f1950-ece2-4ab1-a0e4-e4f73af8ed89,2024-04-19,North,Delhi,Furniture,Sofas,5845.46,14,650.43
+89c1d495-4b0c-4a32-a554-6b19c3513378,2025-02-10,East,Kolkata,Office Supplies,Binders,5669.52,9,838.79
+f042c8cf-afae-457b-9696-40dd3836c8d6,2024-06-18,East,Patna,Technology,Printers,1402.29,8,281.85
+222d17b2-fcb3-459d-96e5-a3920835bdea,2024-01-20,East,Patna,Technology,Laptops,2492.31,2,328.35
+5dc6657e-0e29-43fa-9fc4-d578dfc91261,2024-05-31,West,Mumbai,Office Supplies,Binders,3145.55,2,382.19
+686c0161-53a0-4630-abef-994488b94263,2024-01-19,West,Pune,Office Supplies,Staplers,5013.4,14,284.34
+34174d30-b419-4cc8-a345-1f1c20864a9e,2023-08-09,East,Guwahati,Technology,Phones,7296.32,13,505.7
+85c3ad29-d67e-420d-aff0-a99cfbf84a9f,2025-02-08,East,Kolkata,Office Supplies,Paper,4034.0,12,737.62
+af8e5ece-05e5-4970-a4f4-7014c328f71d,2025-04-14,South,Bangalore,Furniture,Chairs,6124.09,13,535.15
+b480466d-9602-4545-8d6d-961b4c7dcf17,2024-02-17,South,Bangalore,Furniture,Tables,9442.55,3,622.71
+1bfaa496-a9d3-4912-9472-51490ec587dd,2025-02-23,East,Patna,Furniture,Tables,6544.61,11,645.43
+f94088ee-9136-4a77-85c8-d78b10a1d996,2024-04-28,West,Surat,Office Supplies,Binders,3678.04,12,627.16
+5ef56668-400f-4c97-aeb6-79748db6d7c1,2024-03-01,North,Delhi,Furniture,Tables,3204.14,1,663.64
+428f7e17-fe57-45a2-8a7d-adf9e0e0de8c,2023-07-10,West,Mumbai,Office Supplies,Binders,7136.64,10,1659.38
+70b3783e-6f65-4a35-b7d1-e7232ba85920,2024-01-13,West,Mumbai,Office Supplies,Staplers,5767.31,14,1252.17
+cd00394e-e924-4b2f-b590-6a7905e9543c,2023-11-14,West,Pune,Technology,Phones,6787.13,10,1159.51
+5e81d176-1468-4650-aaeb-e688a914f50d,2023-11-18,West,Surat,Office Supplies,Binders,8521.88,10,874.47
+1bd27528-ad7c-4aad-b71a-241f38ae2b24,2025-05-18,East,Guwahati,Technology,Laptops,1429.7,2,300.07
+e6bf0d8b-a241-4cd4-b544-12f2de5cddb0,2025-04-18,North,Lucknow,Technology,Laptops,140.29,13,25.15
+459f8778-4fe1-44a3-95a8-5c3d21933935,2025-03-16,South,Bangalore,Office Supplies,Staplers,4172.42,2,308.5
+d70f2080-84d4-4dd2-9c51-2223f6b217bc,2023-12-19,East,Patna,Technology,Phones,6778.75,13,1264.14
+957e640a-0f63-4dfe-870c-c2106b23232f,2024-09-07,South,Chennai,Technology,Phones,6299.84,15,1119.48
+8174a98e-638e-4845-bc81-d07b294ea4b3,2024-11-30,West,Mumbai,Office Supplies,Staplers,107.34,12,17.89
+3c16dbee-df6b-4f8a-b30e-1c788fc15e9e,2024-04-29,South,Hyderabad,Technology,Laptops,2609.19,14,400.48
+118190e4-ec51-44e1-806e-406905a5504a,2024-01-10,West,Ahmedabad,Furniture,Tables,3635.92,11,331.34
+edb650ce-13c9-4630-83f5-e9596145e961,2023-09-03,South,Kochi,Office Supplies,Paper,3611.89,12,705.29
+fdead181-6eac-43ef-b636-b5f2e368e4cb,2025-02-10,East,Kolkata,Office Supplies,Staplers,3990.53,4,850.75
+fdb430e8-1805-48a9-aee7-2666eaa40229,2023-10-29,South,Kochi,Technology,Laptops,9537.45,1,2266.98
+52251796-96ba-4fa0-9265-54c8e54c5c18,2024-12-25,North,Chandigarh,Furniture,Tables,430.54,6,79.51
+f9383dea-3fdc-4b24-b06b-e8c7171a7a1d,2025-02-23,North,Delhi,Furniture,Sofas,1346.42,2,112.8
+a8a09f3b-2921-4b7b-a796-22014845ec5c,2023-07-24,North,Chandigarh,Furniture,Chairs,9334.38,3,1085.94
+b57fa43d-59ec-4f59-97e3-9c9d32e6d3ec,2023-08-15,North,Chandigarh,Technology,Printers,4158.04,5,794.02
+a63a1caa-9de4-4ba3-99b4-3a3de7b3dd18,2024-10-18,North,Delhi,Office Supplies,Paper,6851.49,3,1020.86
+7c292351-206a-451c-9839-ac44d2ced8bd,2023-12-16,North,Lucknow,Furniture,Chairs,2230.94,15,392.04
+4176788c-e763-492f-9d39-449d50ca8bde,2023-11-08,West,Pune,Technology,Laptops,8101.59,8,1888.42
+eb4b22f6-020f-4911-a503-545093851be0,2023-10-23,South,Hyderabad,Office Supplies,Paper,4237.47,5,1038.16
+d6de50fa-293d-4ce3-abda-f40be214eb2a,2024-11-26,West,Mumbai,Furniture,Tables,9764.67,14,1637.53
+f1568334-a4cf-47b0-bebc-b5d83f024395,2024-01-31,North,Delhi,Technology,Phones,3660.89,13,656.83
+dc24aa8c-7122-47a1-903b-105b53aa2d4a,2024-09-13,East,Kolkata,Furniture,Tables,5966.04,9,1261.56
+d5d8e938-2f86-4754-aba8-06e985b241ac,2023-06-23,West,Mumbai,Technology,Phones,2740.53,12,651.22
+8b480020-ae5c-43b5-81b8-da5f92e38489,2024-05-08,South,Kochi,Technology,Printers,2197.96,9,378.21
+40cb0d77-d1fb-4984-9419-96c01e3c3363,2024-11-26,West,Surat,Office Supplies,Binders,8025.08,10,1546.83
+2945afda-bd18-4bc1-8b14-83c02e0101f3,2025-03-06,North,Delhi,Furniture,Sofas,6031.27,12,692.31
+b1025d5b-564b-4b6c-b3f4-bbbee429f550,2023-12-06,East,Patna,Office Supplies,Staplers,6231.03,13,1494.55
+b78ab3e0-5de1-4f49-a8ae-6ca7969af0b3,2024-02-17,East,Patna,Technology,Printers,592.63,5,109.6
+773b5c42-0bed-402f-9b4e-8eaabde5d67d,2024-07-26,East,Patna,Technology,Laptops,1873.19,13,114.35
+9f524eea-cbba-4938-98af-93be022c528a,2024-07-04,North,Jaipur,Furniture,Tables,3390.32,14,543.07
+bd4f1491-7a1e-40bd-92a6-523229deac79,2023-09-03,South,Bangalore,Furniture,Sofas,7202.4,11,1139.41
+ba872dad-b1c4-4eca-b00b-a9c239bb191c,2024-03-26,South,Chennai,Office Supplies,Staplers,409.69,14,88.76
+d8749958-b4e7-43a4-b09a-c3da422525be,2024-06-03,North,Lucknow,Technology,Printers,8785.74,11,1901.54
+e55c4cb4-adbe-4ade-aae3-f8e2b1a2c700,2025-03-06,West,Mumbai,Office Supplies,Paper,7401.58,9,479.48
+b86292cf-1834-460f-a5e2-da2d2dab332c,2025-02-19,South,Bangalore,Office Supplies,Staplers,2574.13,2,188.74
+a25905ed-fa4f-407e-9348-09e5eb151d29,2024-03-29,West,Ahmedabad,Technology,Laptops,2181.82,1,170.93
+851d04d2-6fc6-49df-9985-df45042c91b7,2024-04-04,North,Chandigarh,Furniture,Sofas,894.96,7,191.25
+d641c70c-1509-4534-a002-36d8114e30a5,2024-09-30,East,Guwahati,Furniture,Chairs,6174.49,9,782.22
+75d028c8-2756-4353-8ad8-117075ca4a89,2024-01-25,East,Patna,Furniture,Sofas,1253.34,11,169.44
+f28084e5-3d8a-4b5c-bd13-19f2c3bcaa82,2023-07-19,East,Bhubaneswar,Furniture,Tables,7498.01,8,679.91
+ceb9a56a-7b84-4f1b-bcbd-ef1977c93c26,2023-08-06,South,Bangalore,Furniture,Tables,314.07,4,46.4
+ba3060fd-98cb-4c92-bf9f-551ee0334576,2023-11-14,East,Patna,Technology,Phones,6056.57,3,1074.76
+b8ee10e4-fc60-4653-9152-e8b153f73c90,2024-02-09,South,Bangalore,Technology,Laptops,8707.52,1,1114.05
+7b2ecc2a-0a0c-49cd-97b0-177ce3b1b2d3,2025-01-25,East,Kolkata,Office Supplies,Paper,2827.36,15,354.58
+fdeb04a3-fe2d-477a-bf51-7fef51a45e0e,2023-08-09,North,Chandigarh,Office Supplies,Paper,6131.7,3,1362.27
+ac17602c-c498-4304-8d4d-387be6d3f4e0,2025-03-04,West,Mumbai,Office Supplies,Paper,2683.42,15,509.79
+2d59276b-ab74-49f0-b6b0-d0fb052d2284,2025-02-15,North,Lucknow,Furniture,Tables,3763.62,8,249.51
+25eca053-90c0-4585-8690-ec97b8e28021,2023-10-25,South,Bangalore,Office Supplies,Paper,9004.93,8,2137.53
+eb398bb8-8988-4e0e-8446-e922c0164855,2024-01-02,North,Lucknow,Office Supplies,Staplers,7836.44,11,895.5
+663a50b4-175b-49be-ab6b-3ebe8db2e1da,2025-05-10,West,Pune,Furniture,Tables,5700.13,10,1263.16
+7371f9a6-619d-4271-9fed-26df2bc0559f,2024-01-11,North,Delhi,Furniture,Chairs,5197.68,5,387.3
+ab924342-1dfd-4824-bbab-bf84e1455f29,2024-04-08,South,Hyderabad,Furniture,Chairs,8557.99,1,1286.55
+98dd887c-33ed-4db5-b374-00854c7db16c,2024-09-12,West,Surat,Technology,Printers,5313.81,12,1045.07
+2e4f5b19-d288-40e4-8658-ad59c9ad8ae6,2023-08-30,East,Kolkata,Technology,Printers,639.18,12,92.39
+716b7c7e-574a-43df-b348-a1f20072103a,2023-09-22,South,Hyderabad,Furniture,Chairs,1933.29,14,322.18
+e418b59d-9e6e-4d0d-8237-af11d2c4f259,2024-10-30,South,Chennai,Office Supplies,Binders,8540.3,14,1567.07
+93a8158b-3e75-46ab-80ee-dd4b88c79c7a,2024-12-26,North,Lucknow,Technology,Laptops,7400.39,10,486.54
+394af467-d544-428a-99c0-906b2eea5881,2024-05-30,West,Surat,Furniture,Sofas,3508.81,9,652.67
+f6ea6d62-9486-4fc9-90c1-37e8f8b728c0,2023-11-16,North,Jaipur,Technology,Phones,6589.88,2,1542.2
+064589de-2ada-4a6e-9b26-f3b0f5bb1720,2024-10-25,East,Guwahati,Technology,Laptops,2430.36,7,349.69
+243ca6d9-ed28-4677-84d0-e1211b6f0c92,2025-02-10,South,Bangalore,Technology,Laptops,7442.67,13,457.67
+57c65475-a31a-472c-b2f9-426f9e36af66,2024-06-21,North,Chandigarh,Furniture,Sofas,1219.66,13,76.74
+20096bf7-0864-424e-ad85-b34dd0dd168c,2024-01-22,East,Kolkata,Technology,Laptops,2397.56,14,197.52
+804f749a-31c4-4ba2-b2b7-d0a3a1670a9e,2023-10-16,South,Chennai,Furniture,Sofas,4414.62,7,439.09
+a5d19468-17ce-4acf-ada0-13f291385ca7,2025-01-04,West,Mumbai,Furniture,Chairs,459.07,7,73.34
+6656c156-4177-4b13-bf87-dff8cc0867a5,2024-11-30,East,Bhubaneswar,Furniture,Chairs,2907.73,2,269.1
+8c409681-a030-49d0-90c9-fb573118d7f3,2024-06-06,North,Lucknow,Office Supplies,Staplers,5552.61,3,804.55
