@@ -58,10 +58,3 @@ The dataset (`indian_sales_data.csv`) was created using Python with the help of 
 
 ---
 
-
-
-## 📌 Coming Soon
-
-- Python script (`generate_data.py`)
-- Jupyter Notebook for data creation
-- Version with multiple years of sales data
