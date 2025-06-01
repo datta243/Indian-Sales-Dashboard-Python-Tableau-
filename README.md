@@ -52,7 +52,7 @@ The dataset (`indian_sales_data.csv`) was created using Python with the help of 
 ## 🚀 How to Run the Project
 
 1. Clone or download this repo
-2. Open `sales_dashboard.twbx` in [Tableau Public]([https://public.tableau.com](https://public.tableau.com/shared/66DQ6XS63?:display_count=n&:origin=viz_share_link))
+2. Open `sales_dashboard.twbx` in [Tableau Public](https://public.tableau.com](https://public.tableau.com/shared/66DQ6XS63?:display_count=n&:origin=viz_share_link)
 3. Explore charts, maps, KPIs, and filters
 4. To regenerate data, run Python script 
 
